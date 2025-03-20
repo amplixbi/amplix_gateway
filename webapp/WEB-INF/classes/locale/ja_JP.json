@@ -1,0 +1,7858 @@
+{
+  "meta_type" : "locales",
+  "objinfo" : { },
+  "name" : "ja_JP",
+  "type" : "Unknown",
+  "nodepath" : "/SYS_Config/locale/ja_JP",
+  "writable" : false,
+  "manage" : false,
+  "is_sub" : false,
+  "sortseq" : 0,
+  "attributes" : { },
+  "data" : [ {
+    "name" : "L_CM_DISP_2",
+    "value" : "ここで*ドラッグアイテムこのメジャ?を定義します"
+  }, {
+    "name" : "L_CD_DISP_2",
+    "value" : "*ドラッグメトリック項目やボタンの追加]をクリックします"
+  }, {
+    "name" : "L_TIME_FMT_DSC",
+    "value" : "*適用した場合の日付形式項目"
+  }, {
+    "name" : "L_FM_DISP1",
+    "value" : "*ダブルクリックしてフィ?ルドには、??に追加します。"
+  }, {
+    "name" : "L_CM_DISP_1",
+    "value" : "*ダブルクリックしてフィ?ルドには、??に追加します"
+  }, {
+    "name" : "L_FM_DISP2",
+    "value" : "*ドラッグアイテムはここで、このメジャ?を定義します。"
+  }, {
+    "name" : "L_ME_DISP1",
+    "value" : "*ダブルクリックしてフィ?ルドには、??に追加します"
+  }, {
+    "name" : "L_C_DCOUNT",
+    "value" : "@カウント"
+  }, {
+    "name" : "L_VIEW_ITEM",
+    "value" : "見ます@"
+  }, {
+    "name" : "L_C_DATE",
+    "value" : "詳細@"
+  }, {
+    "name" : "M_SEL_ERR",
+    "value" : "@必要です。値を選?してください"
+  }, {
+    "name" : "I_ABOUT",
+    "value" : "約 @"
+  }, {
+    "name" : "E_D_EVNT",
+    "value" : "evnetの@の?理中にエラ?が?生しました。"
+  }, {
+    "name" : "L_C_TOTAL",
+    "value" : "合計@"
+  }, {
+    "name" : "E_PV_L",
+    "value" : "コンテンツの?限エラ?：（@）"
+  }, {
+    "name" : "L_C_M_NAMES_S",
+    "value" : "1月#2月#3月#4月#5月#6月#7月#8月#9月#10月#11月#12月"
+  }, {
+    "name" : "L_C_M_NAMES",
+    "value" : "1月＃2月の＃マ?チ＃4月の＃月＃6月の＃7月の＃8月の＃9月＃10月＃11月＃12月"
+  }, {
+    "name" : "L_DUAL_AXIS",
+    "value" : "デュアルYAXIS"
+  }, {
+    "name" : "L_CONTACT_CRED",
+    "value" : "著作?＆コピ?;;;;; 1996-2010 IG$。得意先名+"
+  }, {
+    "name" : "L_EXPORT_CSV",
+    "value" : "CSV"
+  }, {
+    "name" : "L_DB_MON",
+    "value" : "DBモニタリング"
+  }, {
+    "name" : "L_DB_CHARSET",
+    "value" : "DBのCharSet"
+  }, {
+    "name" : "L_OUTPUT_CHARSET",
+    "value" : "出力文字セット"
+  }, {
+    "name" : "L_TABLE_FIELD",
+    "value" : "DBテ?ブル"
+  }, {
+    "name" : "L_EXPORT_DOCX",
+    "value" : "DOCXエクスポート"
+  }, {
+    "name" : "B_GO",
+    "value" : "行きます"
+  }, {
+    "name" : "D_HIERARCHY",
+    "value" : "階層"
+  }, {
+    "name" : "T_BG_HIVEJOB",
+    "value" : "ハイブ求人"
+  }, {
+    "name" : "L_EXPORT_HTML",
+    "value" : "HTMLビュ?"
+  }, {
+    "name" : "L_EXP_JASP",
+    "value" : "碧玉"
+  }, {
+    "name" : "D_JAVACLASS",
+    "value" : "Javaクラス"
+  }, {
+    "name" : "L_JDBC_URL",
+    "value" : "JDBC URL"
+  }, {
+    "name" : "L_JDBC_DRV",
+    "value" : "JDBCドライバ"
+  }, {
+    "name" : "T_MDB_CUBE",
+    "value" : "MDBアクセス解析"
+  }, {
+    "name" : "L_MDB_OPTION",
+    "value" : "MDBのオプション"
+  }, {
+    "name" : "L_MONGODB",
+    "value" : "MongoDB"
+  }, {
+    "name" : "L_MONGO_DATA",
+    "value" : "MongoDBデータ"
+  }, {
+    "name" : "L_MONGO_DPROC",
+    "value" : "MongoDBプロセス"
+  }, {
+    "name" : "D_MDBCUBE",
+    "value" : "MS Accessのデ?タキュ?ブ"
+  }, {
+    "name" : "L_MDB_CUBE",
+    "value" : "MS Accessのデ?タキュ?ブ"
+  }, {
+    "name" : "L_EXPORT_EXCEL",
+    "value" : "エクセル"
+  }, {
+    "name" : "L_EXPORT_PPT",
+    "value" : "MS PPT"
+  }, {
+    "name" : "D_NOSQL",
+    "value" : "NoSQLデ?タベ?ス"
+  }, {
+    "name" : "L_OP_NOT",
+    "value" : "否定演算"
+  }, {
+    "name" : "L_EXPORT_PDF",
+    "value" : "PDF"
+  }, {
+    "name" : "L_ML_C7",
+    "value" : "PGMXをロード"
+  }, {
+    "name" : "L_R_WIZARD",
+    "value" : "Rウィザ?ド"
+  }, {
+    "name" : "L_R_PARAM",
+    "value" : "Rパラメ?タ"
+  }, {
+    "name" : "L_R_SUMMARY",
+    "value" : "Rの?要"
+  }, {
+    "name" : "L_R_SCRIPT",
+    "value" : "Rスクリプトエディタ"
+  }, {
+    "name" : "L_VIEW_RSTAT",
+    "value" : "R統計"
+  }, {
+    "name" : "T_R_WIZARD",
+    "value" : "R統計ウィザ?ド"
+  }, {
+    "name" : "L_EXPORT_RTF",
+    "value" : "RTFエクスポート"
+  }, {
+    "name" : "T_SELECT_POOL",
+    "value" : "プ?ルを選?"
+  }, {
+    "name" : "L_F_SQL_IS",
+    "value" : "SQLは演算子である（IS）"
+  }, {
+    "name" : "L_F_SQL_IS_NOT",
+    "value" : "SQLは、オペレ?タ（ありません）ではありません"
+  }, {
+    "name" : "L_LD_SQL",
+    "value" : "SQLクエリのインポ?ト"
+  }, {
+    "name" : "I_SQLCUBE",
+    "value" : "SQLウィザ?ド"
+  }, {
+    "name" : "L_VIEW_SQL",
+    "value" : "SQLビュ?"
+  }, {
+    "name" : "L_LD_SQL_D",
+    "value" : "SQLソース"
+  }, {
+    "name" : "L_P_sql",
+    "value" : "SQLを?行します。"
+  }, {
+    "name" : "D_SQLCUBE",
+    "value" : "SQLキュ?ブ"
+  }, {
+    "name" : "L_SQL_CUBE",
+    "value" : "SQLキュ?ブ"
+  }, {
+    "name" : "L_EDIT_SQL",
+    "value" : "編集SQL"
+  }, {
+    "name" : "L_SQL_PRE_PROC",
+    "value" : "SQLプリプロセッサ"
+  }, {
+    "name" : "D_UIPAGE",
+    "value" : "UIペ?ジ"
+  }, {
+    "name" : "L_UIPAGE",
+    "value" : "UIペ?ジ"
+  }, {
+    "name" : "L_LNK_URL",
+    "value" : "URLアドレス"
+  }, {
+    "name" : "L_EXPORT_XML",
+    "value" : "XMLエクスポート"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_CSTEP_5",
+    "value" : "Axis"
+  }, {
+    "name" : "L_YAXIS_FORMAT",
+    "value" : "Y軸のフォ?マット"
+  }, {
+    "name" : "L_YAXIS_TITLE",
+    "value" : "YAXISタイトル"
+  }, {
+    "name" : "L_YAXIS_MAX",
+    "value" : "Y軸の最大"
+  }, {
+    "name" : "L_YAXIS_MIN",
+    "value" : "Y軸の最小"
+  }, {
+    "name" : "L_ALIGN_CENTER",
+    "value" : "センタ?"
+  }, {
+    "name" : "L_SHOW_FIRST",
+    "value" : "最初のショ?"
+  }, {
+    "name" : "S_BOTTOM",
+    "value" : "ボトム値"
+  }, {
+    "name" : "S_TOP",
+    "value" : "トップ値"
+  }, {
+    "name" : "L_USE_MFMT",
+    "value" : "メジャ?フォ?マットを使用"
+  }, {
+    "name" : "L_ML_CEFF_S",
+    "value" : "感度分析"
+  }, {
+    "name" : "L_F_VALUE_LNG",
+    "value" : "?値?"
+  }, {
+    "name" : "B_VALUES",
+    "value" : "?値?"
+  }, {
+    "name" : "B_TEXT",
+    "value" : "テキスト"
+  }, {
+    "name" : "B_VALUE",
+    "value" : "値"
+  }, {
+    "name" : "L_BAND_VALUE_1",
+    "value" : "値"
+  }, {
+    "name" : "L_F_VALUE",
+    "value" : "値"
+  }, {
+    "name" : "L_FLT_VAL_SCR",
+    "value" : "検証機能"
+  }, {
+    "name" : "L_VAL_DELIM",
+    "value" : "値?切り文字"
+  }, {
+    "name" : "B_COMBO_VAL",
+    "value" : "リスト値"
+  }, {
+    "name" : "L_P_valuelist",
+    "value" : "値を記入"
+  }, {
+    "name" : "T_VALUE_SELECT",
+    "value" : "値の選?ウィザ?ド"
+  }, {
+    "name" : "T_DYN_SELECT",
+    "value" : "値を選?してください..."
+  }, {
+    "name" : "L_STACK_VALUE",
+    "value" : "スタック値"
+  }, {
+    "name" : "L_VALUE_TYPE",
+    "value" : "ValueTypeに"
+  }, {
+    "name" : "L_E_LIST",
+    "value" : "値から選?"
+  }, {
+    "name" : "B_CUST_VAL",
+    "value" : "カスタム値"
+  }, {
+    "name" : "L_SHOW_VALUE",
+    "value" : "値の表示"
+  }, {
+    "name" : "L_TK_INTVL",
+    "value" : "目盛間隔"
+  }, {
+    "name" : "L_SELECT_VALUE",
+    "value" : "値を選?"
+  }, {
+    "name" : "L_FORMAT",
+    "value" : "形式"
+  }, {
+    "name" : "L_AREA_MEASURE",
+    "value" : "メジャ?"
+  }, {
+    "name" : "L_F_EQ",
+    "value" : "イコ?ル（=）"
+  }, {
+    "name" : "L_F_EQ_NOT",
+    "value" : "等しくありません（<>）"
+  }, {
+    "name" : "L_OBJECT_TYPE",
+    "value" : "オブジェクトタイプ"
+  }, {
+    "name" : "T_META_SELECT",
+    "value" : "項目を選?してください..."
+  }, {
+    "name" : "B_SEARCH",
+    "value" : "サ?チ"
+  }, {
+    "name" : "L_SEARCH_KWD",
+    "value" : "サ?チ"
+  }, {
+    "name" : "L_NEW_SHEET",
+    "value" : "新しいシ?ト"
+  }, {
+    "name" : "L_ML_CEFF_D",
+    "value" : "決定論的分析"
+  }, {
+    "name" : "M_WARNING",
+    "value" : "警告！"
+  }, {
+    "name" : "L_SC_C1",
+    "value" : "後に1回実行"
+  }, {
+    "name" : "L_LONGITUDE",
+    "value" : "?度"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_PATH",
+    "value" : "Path"
+  }, {
+    "name" : "L_C_DIR",
+    "value" : "方向を計算します"
+  }, {
+    "name" : "L_ERR_SAVE",
+    "value" : "?行するには前にコンテンツを保存します。"
+  }, {
+    "name" : "L_DEPRIVATE",
+    "value" : "ログインからロックユ?ザ?"
+  }, {
+    "name" : "L_HIGH_PREC",
+    "value" : "高精度?"
+  }, {
+    "name" : "L_ADV_OPTION",
+    "value" : "高度なオプション"
+  }, {
+    "name" : "L_ADVANCED_OPTION",
+    "value" : "高度なオプション"
+  }, {
+    "name" : "L_R_FIXSIZE",
+    "value" : "固定サイズ"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_SHARE",
+    "value" : "Share"
+  }, {
+    "name" : "I_RELATION",
+    "value" : "?係"
+  }, {
+    "name" : "T_MANAGE",
+    "value" : "管理"
+  }, {
+    "name" : "L_MANAGEMENT",
+    "value" : "管理"
+  }, {
+    "name" : "I_ADMIN",
+    "value" : "管理者"
+  }, {
+    "name" : "S_COUNT",
+    "value" : "カウント"
+  }, {
+    "name" : "B_DELIMITER",
+    "value" : "デリミタ"
+  }, {
+    "name" : "L_LM_ADD",
+    "value" : "?コ?ドを追加します。"
+  }, {
+    "name" : "L_FONT_BOLD",
+    "value" : "ボ?ルド"
+  }, {
+    "name" : "L_PRIVILEGE",
+    "value" : "特?"
+  }, {
+    "name" : "D_AUTH",
+    "value" : "義務"
+  }, {
+    "name" : "L_OBJECT_AUTH",
+    "value" : "オブジェクト認?"
+  }, {
+    "name" : "T_OBJECT_AUTH",
+    "value" : "オブジェクト認?"
+  }, {
+    "name" : "T_DUTY_LIST",
+    "value" : "デュ?ティ一?"
+  }, {
+    "name" : "L_ADD_DUTY",
+    "value" : "義務を追加"
+  }, {
+    "name" : "D_GROUP",
+    "value" : "グル?プ"
+  }, {
+    "name" : "L_GROUP_LEVEL",
+    "value" : "グル?プレベル"
+  }, {
+    "name" : "L_GROUP_FIELD",
+    "value" : "グル?プフィ?ルド"
+  }, {
+    "name" : "W_SYNC_GRP",
+    "value" : "サ?バ?のグル?プの同期を?行しますか？"
+  }, {
+    "name" : "L_GROUP_NAME",
+    "value" : "グル?プ名"
+  }, {
+    "name" : "L_ADD_GROUP",
+    "value" : "グル?プの追加"
+  }, {
+    "name" : "L_OPT_GRID",
+    "value" : "グリッドオプション"
+  }, {
+    "name" : "L_OVF_DESC",
+    "value" : "ドロ?スクロ?ルグリッドのオ?バ?フロ?をチェックしてください"
+  }, {
+    "name" : "T_STYLE_WIZARD",
+    "value" : "スタイルウィザ?ド"
+  }, {
+    "name" : "L_TB_PRT_GRD",
+    "value" : "エクスポ?トグリッド"
+  }, {
+    "name" : "L_GRID_HMENU",
+    "value" : "グリッドを隠すポップアップメニュー"
+  }, {
+    "name" : "L_VIEW_GRID",
+    "value" : "シ?トビュ?"
+  }, {
+    "name" : "L_FONT_FACE",
+    "value" : "フォントフェイス"
+  }, {
+    "name" : "L_FORE_COLOR",
+    "value" : "フォアカラ?"
+  }, {
+    "name" : "L_DATE_OPTION",
+    "value" : "日付オプション"
+  }, {
+    "name" : "T_FEATURES",
+    "value" : "特?"
+  }, {
+    "name" : "L_BASE_STYLE",
+    "value" : "基本スタイル"
+  }, {
+    "name" : "L_STATISTICS",
+    "value" : "基礎統計?"
+  }, {
+    "name" : "T_STATISTICS",
+    "value" : "基礎統計?"
+  }, {
+    "name" : "L_SET_DEF",
+    "value" : "デフォルトを使用します"
+  }, {
+    "name" : "L_FONT_ITALIC",
+    "value" : "イタリック"
+  }, {
+    "name" : "L_PREDEFINED_FIELD",
+    "value" : "事前定義されたフィ?ルド"
+  }, {
+    "name" : "L_FILE_DELETE",
+    "value" : "?存のデ?タを交換します"
+  }, {
+    "name" : "L_PWD_OLD",
+    "value" : "以前のパスワ?ド"
+  }, {
+    "name" : "L_OTHER_OPTION",
+    "value" : "その他のオプション"
+  }, {
+    "name" : "L_OTHER_VALUE",
+    "value" : "その他の値"
+  }, {
+    "name" : "L_ML_C1",
+    "value" : "チャンスノード"
+  }, {
+    "name" : "L_C_PR",
+    "value" : "プライベ?ト目次"
+  }, {
+    "name" : "L_DATE_METRIC",
+    "value" : "日メトリック"
+  }, {
+    "name" : "D_DATEMETRIC",
+    "value" : "日メトリック"
+  }, {
+    "name" : "L_DATE_FORMAT",
+    "value" : "日付形式"
+  }, {
+    "name" : "L_DATE_TYPE",
+    "value" : "日付タイプのフィ?ルド"
+  }, {
+    "name" : "B_DSC",
+    "value" : "降順"
+  }, {
+    "name" : "B_ORDER_DSC",
+    "value" : "降順"
+  }, {
+    "name" : "M_SAVED",
+    "value" : "成功しましたコンテンツを保存"
+  }, {
+    "name" : "B_YEAR",
+    "value" : "年"
+  }, {
+    "name" : "L_C_YR_SFX",
+    "value" : "年"
+  }, {
+    "name" : "B_HEIGHT",
+    "value" : "高さ"
+  }, {
+    "name" : "L_FIXED_H",
+    "value" : "修正高さ"
+  }, {
+    "name" : "F_P_CUM",
+    "value" : "累積合計Percent"
+  }, {
+    "name" : "L_SAVE_REPORT_AS",
+    "value" : "レポ?トとして保存"
+  }, {
+    "name" : "L_SAVE_EXCEL_AS",
+    "value" : "以下のようなコンテンツ保存"
+  }, {
+    "name" : "L_SAVE_CONTENTAS",
+    "value" : "コンテンツとしての保存..."
+  }, {
+    "name" : "B_NEXT",
+    "value" : "次"
+  }, {
+    "name" : "L_C_NEXT",
+    "value" : "次"
+  }, {
+    "name" : "E_SC_LD",
+    "value" : "エラ?DynamicScriptのロ?ド中"
+  }, {
+    "name" : "L_P_open_dlg",
+    "value" : "[開く]ダイアログ"
+  }, {
+    "name" : "T_M_TENANT",
+    "value" : "マルチテナント"
+  }, {
+    "name" : "L_CFIT_PORD",
+    "value" : "多項式順序"
+  }, {
+    "name" : "D_MOLAPCUBE",
+    "value" : "MOLAPキュ?ブ"
+  }, {
+    "name" : "L_MOLAP_CUBE",
+    "value" : "MOLAPキュ?ブ"
+  }, {
+    "name" : "T_MCUBE_WINDOW",
+    "value" : "メ?トル寸法キュ?ブ"
+  }, {
+    "name" : "L_BUILD_MCUBE",
+    "value" : "キュ?ブを作成"
+  }, {
+    "name" : "L_UNIT_TEXT",
+    "value" : "?位テキスト"
+  }, {
+    "name" : "L_P_PIVOT_UNIT",
+    "value" : "ユニットピボット"
+  }, {
+    "name" : "B_CLOSE",
+    "value" : "閉じる"
+  }, {
+    "name" : "L_C_CLOSE",
+    "value" : "閉じる"
+  }, {
+    "name" : "L_LNK_TGT",
+    "value" : "ブラウザターゲット"
+  }, {
+    "name" : "L_DRILL_PARAM_DESC",
+    "value" : "ターゲットシートでフィルタリングする列を確認してください"
+  }, {
+    "name" : "L_BASE_METRIC",
+    "value" : "ベ?スメトリック"
+  }, {
+    "name" : "L_SORT_SRC",
+    "value" : "アイテムは、ソ?トします"
+  }, {
+    "name" : "D_DASHBOARD",
+    "value" : "ダッシュボ?ド"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "L_DASHBOARD",
+    "value" : "FormBuilder"
+  }, {
+    "name" : "T_DASHBOARD",
+    "value" : "ダッシュボ?ド"
+  }, {
+    "name" : "L_MGR_DASHBOARD",
+    "value" : "Dashaboard MGR"
+  }, {
+    "name" : "L_DBD_MAP",
+    "value" : "ダッシュボ?ドのマッピング"
+  }, {
+    "name" : "I_MGR_DBD",
+    "value" : "ダッシュボ?ドのロジック?ビルダ?"
+  }, {
+    "name" : "L_CSTEP_2",
+    "value" : "デ?タ"
+  }, {
+    "name" : "L_DATA_LABEL",
+    "value" : "デ?タラベル"
+  }, {
+    "name" : "L_T_CUBE_SEL",
+    "value" : "デ?タ選?ウィザ?ド"
+  }, {
+    "name" : "L_EDIT_DATA",
+    "value" : "デ?タの編集"
+  }, {
+    "name" : "T_Filter",
+    "value" : "フィルタデ?タ"
+  }, {
+    "name" : "L_EMPTY",
+    "value" : "データなし。"
+  }, {
+    "name" : "L_BB_STEP_1",
+    "value" : "件のデ?タの準備"
+  }, {
+    "name" : "L_MENU_DB_MODEL",
+    "value" : "デ?タベ?スモデル"
+  }, {
+    "name" : "T_DB_CON",
+    "value" : "デ?タベ?ス?インスタンス"
+  }, {
+    "name" : "L_DB_INSTANCE",
+    "value" : "デ?タベ?ス?インスタンス"
+  }, {
+    "name" : "L_DB_TYPE",
+    "value" : "デ?タベ?スの種類"
+  }, {
+    "name" : "L_DB_NAME",
+    "value" : "デ?タベ?ス名"
+  }, {
+    "name" : "M_S_S1",
+    "value" : "選?したデ?タベ?ス?インスタンスが見つかりません結果。"
+  }, {
+    "name" : "L_ADD_DB_INST",
+    "value" : "デ?タベ?ス?インスタンスを追加します。"
+  }, {
+    "name" : "L_VIEW_MODE",
+    "value" : "表示モ?ド"
+  }, {
+    "name" : "L_DATASET",
+    "value" : "データセット"
+  }, {
+    "name" : "L_B_ADC",
+    "value" : "ファイルのアップロ?ド"
+  }, {
+    "name" : "D_TABDIMENSION",
+    "value" : "データ分離ディメンション"
+  }, {
+    "name" : "L_DATA_LABEL_FMT",
+    "value" : "データラベルフォーマット"
+  }, {
+    "name" : "L_PRV_DATA",
+    "value" : "デ?タプレビュ?"
+  }, {
+    "name" : "L_DATA_OPTION",
+    "value" : "デ?タオプション"
+  }, {
+    "name" : "T_BG_DS",
+    "value" : "情報元"
+  }, {
+    "name" : "L_STYLE_DATA",
+    "value" : "デ?タスタイル"
+  }, {
+    "name" : "L_LD_LK",
+    "value" : "接?を接?します"
+  }, {
+    "name" : "M_ERR_CDATA",
+    "value" : "エラ?カスタムデ?タレポ?トの?理中"
+  }, {
+    "name" : "T_FILTER",
+    "value" : "フィルタデ?タ"
+  }, {
+    "name" : "L_NO_DATA",
+    "value" : "デ?タなし"
+  }, {
+    "name" : "L_STACK_CHART",
+    "value" : "積み上げシリ?ズ"
+  }, {
+    "name" : "L_MSG_TABNAME",
+    "value" : "タブディメンションのタイプのデ?タラベルテキストです。"
+  }, {
+    "name" : "I_DATA",
+    "value" : "デ?タ"
+  }, {
+    "name" : "L_MGR_DATABASE",
+    "value" : "デ?タベ?ス?マネ?ジャ?"
+  }, {
+    "name" : "L_REG_DATABASE",
+    "value" : "デ?タベ?スの登?"
+  }, {
+    "name" : "I_DATABASE_CONNECTION",
+    "value" : "デ?タベ?ス接?"
+  }, {
+    "name" : "T_DB_PWD",
+    "value" : "デ?タベ?ス接?"
+  }, {
+    "name" : "T_DATA_UPLOAD",
+    "value" : "アップロ?ド?デ?タファイル"
+  }, {
+    "name" : "L_LD_FILE",
+    "value" : "ロ?ドデ?タファイル"
+  }, {
+    "name" : "L_SHOW_TOOL_BUTTON",
+    "value" : "ツール表示ボタン"
+  }, {
+    "name" : "B_HELP",
+    "value" : "助けて"
+  }, {
+    "name" : "L_HELP_DOC",
+    "value" : "ヘルプドキュメント"
+  }, {
+    "name" : "I_HELP_MGR",
+    "value" : "ヘルプ?マネ?ジャ"
+  }, {
+    "name" : "L_HELP_GUIDES",
+    "value" : "ヘルプとガイド"
+  }, {
+    "name" : "L_NEW_DOCUMENT",
+    "value" : "ドキュメントを追加"
+  }, {
+    "name" : "E_DUP_FOLDER",
+    "value" : "移動同じフォルダが許可されていません"
+  }, {
+    "name" : "L_TB_BN",
+    "value" : "このテーブルで使用されているのと同じノード名が見つかりました。すべての名前を変更と共に変更しますか？"
+  }, {
+    "name" : "L_V_DESC",
+    "value" : "ダイナミック??エディタ?"
+  }, {
+    "name" : "L_F_BETWEEN_NOT",
+    "value" : "れていない値（NOT間）"
+  }, {
+    "name" : "L_F_BETWEEN",
+    "value" : "値の間（間）"
+  }, {
+    "name" : "B_BACK",
+    "value" : "バック"
+  }, {
+    "name" : "L_DRAG_SELECT",
+    "value" : "ドラッグ選択"
+  }, {
+    "name" : "L_ENABLE_DRILL",
+    "value" : "ドリルダウン"
+  }, {
+    "name" : "L_R_UPD_TGT",
+    "value" : "ドリルタ?ゲット"
+  }, {
+    "name" : "L_BTN_LOGIN",
+    "value" : "ログイン"
+  }, {
+    "name" : "L_ML_C2",
+    "value" : "決定ノード"
+  }, {
+    "name" : "L_ML_C5",
+    "value" : "決定木"
+  }, {
+    "name" : "L_LABEL_DIST",
+    "value" : "ラベルの距離"
+  }, {
+    "name" : "L_SHOW_LABEL",
+    "value" : "ラベルを表示"
+  }, {
+    "name" : "L_LABEL_ALIGN",
+    "value" : "ラベルの位置を合わせ"
+  }, {
+    "name" : "L_L_STEP",
+    "value" : "ラベルステップ"
+  }, {
+    "name" : "L_MARKER",
+    "value" : "マ?カ?"
+  }, {
+    "name" : "L_CFIT_LC",
+    "value" : "線のスタイル"
+  }, {
+    "name" : "L_BAND_BORDER",
+    "value" : "境界"
+  }, {
+    "name" : "L_LINE_NUM",
+    "value" : "回線番?"
+  }, {
+    "name" : "L_B_LAYOUT",
+    "value" : "ボ?ダ?レイアウト"
+  }, {
+    "name" : "B_OPT_LAYOUT",
+    "value" : "レイアウト"
+  }, {
+    "name" : "L_LAYOUT",
+    "value" : "レイアウト"
+  }, {
+    "name" : "L_LAYOUT_WIZARD",
+    "value" : "レイアウトウィザ?ド"
+  }, {
+    "name" : "L_EDIT_LAYOUT",
+    "value" : "レイアウトを編集"
+  }, {
+    "name" : "T_LAYOUT",
+    "value" : "レイアウトテンプレ?ト"
+  }, {
+    "name" : "L_LOG_VIEW",
+    "value" : "ログの表示結果"
+  }, {
+    "name" : "L_LOGOUT",
+    "value" : "ログアウト"
+  }, {
+    "name" : "L_DESKTOP_LOGOUT",
+    "value" : "ログアウト"
+  }, {
+    "name" : "L_T_LOUT",
+    "value" : "あなたは、システムをログアウトしますか？"
+  }, {
+    "name" : "L_M_C_LOGOUT",
+    "value" : "ログアウトするには、yesボタンをクリックしてください。キャンセルするには[いいえ]ボタンをクリックし<BR>"
+  }, {
+    "name" : "L_LOGIN_TITLE",
+    "value" : "安全なログイン"
+  }, {
+    "name" : "B_LOGIN",
+    "value" : "ログイン"
+  }, {
+    "name" : "L_ONLOAD_RUN",
+    "value" : "負荷に?行"
+  }, {
+    "name" : "T_LDATA_TITLE",
+    "value" : "ロ?カルデ?タキュ?ブオプション"
+  }, {
+    "name" : "D_EXCELLOADER",
+    "value" : "ロ?カルファイルのキュ?ブ"
+  }, {
+    "name" : "L_EXCEL_LOADER",
+    "value" : "ロ?カルファイルのキュ?ブ"
+  }, {
+    "name" : "D_DATACUBE",
+    "value" : "ローカルファイルキューブ"
+  }, {
+    "name" : "L_CLEAR_LOOKUP",
+    "value" : "?索を削除します"
+  }, {
+    "name" : "L_RESOURCES",
+    "value" : "リソ?ス"
+  }, {
+    "name" : "L_RESOURCE",
+    "value" : "リソ?ス"
+  }, {
+    "name" : "D_REPORT",
+    "value" : "報告する"
+  }, {
+    "name" : "L_REPORT",
+    "value" : "報告する"
+  }, {
+    "name" : "T_REPORT_WINDOW",
+    "value" : "報告する"
+  }, {
+    "name" : "L_REPORT_TOOLS",
+    "value" : "レポ?トツ?ル"
+  }, {
+    "name" : "L_REPORT_NAME",
+    "value" : "レポート名"
+  }, {
+    "name" : "L_RPT_V_OPT",
+    "value" : "レポ?トビュ?アオプション"
+  }, {
+    "name" : "L_MENU_REPORT",
+    "value" : "レポ?トを作成します。"
+  }, {
+    "name" : "M_REPORT",
+    "value" : "報告する"
+  }, {
+    "name" : "L_P_RPT_C",
+    "value" : "レポ?トオプション"
+  }, {
+    "name" : "I_REPORT_STYLE",
+    "value" : "レポ?トのスタイル"
+  }, {
+    "name" : "T_GLOBAL_REPORT_STYLE",
+    "value" : "ルックアンドフィ?ル"
+  }, {
+    "name" : "L_P_onlinereport",
+    "value" : "レポ?トの?行"
+  }, {
+    "name" : "L_SYS_LOG",
+    "value" : "システムログ"
+  }, {
+    "name" : "M_ERR_C_REP_PROC",
+    "value" : "エラ?カスタムレポ?トハンドラの?理中に"
+  }, {
+    "name" : "T_REPORT_OPTION",
+    "value" : "?更レポ?トオプション"
+  }, {
+    "name" : "L_CHANGE_REPORTTYPE",
+    "value" : "?更レポ?トの種類"
+  }, {
+    "name" : "L_SAVE_REPORT",
+    "value" : "レポ?トの保存"
+  }, {
+    "name" : "L_ADD_REPORT",
+    "value" : "レポ?トの追加"
+  }, {
+    "name" : "T_RPT_PIVOT",
+    "value" : "レポ?トピボット"
+  }, {
+    "name" : "L_MAP_ITEM",
+    "value" : "項目を報告する地?"
+  }, {
+    "name" : "L_LINK_FIELD",
+    "value" : "リンクフィールド"
+  }, {
+    "name" : "L_DRILL_ON_DESC",
+    "value" : "リンクを表示するには列を確認してください。"
+  }, {
+    "name" : "B_WIZARD",
+    "value" : "ウィザ?ド"
+  }, {
+    "name" : "D_CHARTMEASURE",
+    "value" : "マイクロチャ?ト"
+  }, {
+    "name" : "L_CHART_MEASURE",
+    "value" : "マイクロチャ?ト"
+  }, {
+    "name" : "L_RNK_LST",
+    "value" : "すべての最後のランクを表示"
+  }, {
+    "name" : "L_L_TAB",
+    "value" : "最後のタブのみをロ?ドします"
+  }, {
+    "name" : "D_CUBEMODEL",
+    "value" : "ROLAPキュ?ブモデル"
+  }, {
+    "name" : "L_ROLAP_CUBE_MODEL",
+    "value" : "ROLAPキュ?ブモデル"
+  }, {
+    "name" : "D_CUBE",
+    "value" : "ROLAPキュ?ブ"
+  }, {
+    "name" : "L_ROLAP_CUBE",
+    "value" : "ROLAPキュ?ブ"
+  }, {
+    "name" : "B_EVERY",
+    "value" : "すべての"
+  }, {
+    "name" : "L_EV_DAY",
+    "value" : "毎日の毎日"
+  }, {
+    "name" : "T_BG_MR",
+    "value" : "地?/削減"
+  }, {
+    "name" : "L_MAP_OPT",
+    "value" : "地?オプション"
+  }, {
+    "name" : "L_MAP_TYPE",
+    "value" : "マップタイプ"
+  }, {
+    "name" : "L_B_JV",
+    "value" : "地?/削減のJava"
+  }, {
+    "name" : "L_HD_MAPR",
+    "value" : "地?を削減します"
+  }, {
+    "name" : "D_MCUBE",
+    "value" : "多次元キュ?ブ"
+  }, {
+    "name" : "L_MENU",
+    "value" : "メニュ?"
+  }, {
+    "name" : "L_FEATURE_CTRL",
+    "value" : "機能コントロ?ル"
+  }, {
+    "name" : "L_MAIL_BD",
+    "value" : "コンテンツ"
+  }, {
+    "name" : "L_P_MEASURE",
+    "value" : "?策"
+  }, {
+    "name" : "D_MEASURE",
+    "value" : "メジャ?"
+  }, {
+    "name" : "L_MEASURE",
+    "value" : "メジャ?"
+  }, {
+    "name" : "T_MEASURE",
+    "value" : "メジャ?"
+  }, {
+    "name" : "L_GROUP_MEASURE",
+    "value" : "グル?プ測定"
+  }, {
+    "name" : "L_REG_MEASURES",
+    "value" : "?策を行います"
+  }, {
+    "name" : "T_M_MEASURE",
+    "value" : "?策を行います"
+  }, {
+    "name" : "T_M_Measure",
+    "value" : "?策を登?"
+  }, {
+    "name" : "L_M_NAME",
+    "value" : "メジャ?名"
+  }, {
+    "name" : "L_M_FORMAT",
+    "value" : "メジャ?フォ?マット"
+  }, {
+    "name" : "L_M_POSITION",
+    "value" : "位置測定"
+  }, {
+    "name" : "L_MEASURE_ON",
+    "value" : "で測定"
+  }, {
+    "name" : "L_BB_STEP_3",
+    "value" : "?策と時間メトリックを作ります"
+  }, {
+    "name" : "L_M_FILTER",
+    "value" : "メジャーフィルター"
+  }, {
+    "name" : "L_META_IMPORT",
+    "value" : "インポ?トメタファイル"
+  }, {
+    "name" : "I_META_IMP",
+    "value" : "メタファイルのロ?ド"
+  }, {
+    "name" : "T_META_IMP",
+    "value" : "メタファイルのロ?ド"
+  }, {
+    "name" : "T_META_EDITOR",
+    "value" : "メタエディタ"
+  }, {
+    "name" : "L_EXPORT_META",
+    "value" : "ファイル?のエクスポ?トコンテンツ"
+  }, {
+    "name" : "D_METRIC",
+    "value" : "メトリック"
+  }, {
+    "name" : "L_METRIC",
+    "value" : "メトリック"
+  }, {
+    "name" : "L_MC_ELEM_EDT",
+    "value" : "要素エディタ"
+  }, {
+    "name" : "L_T_LOOKUP",
+    "value" : "?索オプション"
+  }, {
+    "name" : "L_MONITORING",
+    "value" : "モニタリング"
+  }, {
+    "name" : "L_MODEL_CREATE",
+    "value" : "モデルの作成"
+  }, {
+    "name" : "L_MODEL_SELECT",
+    "value" : "モデル選?"
+  }, {
+    "name" : "L_MODEL_EDIT",
+    "value" : "編集モデル"
+  }, {
+    "name" : "L_LD_INI",
+    "value" : "すべてクリアデ?タセット"
+  }, {
+    "name" : "L_ALL_DATA",
+    "value" : "すべてのデ?タ"
+  }, {
+    "name" : "L_CFIT_AS",
+    "value" : "すべてのシリーズ曲線"
+  }, {
+    "name" : "L_LD_UL",
+    "value" : "すべての接?を切?します"
+  }, {
+    "name" : "L_C_AL",
+    "value" : "全コンテンツ"
+  }, {
+    "name" : "L_BTN_TRG_ALL",
+    "value" : "フィルタを検証する"
+  }, {
+    "name" : "L_AU_APPLY_SUB",
+    "value" : "すべてのサブフォルダを適用します"
+  }, {
+    "name" : "L_F_IN_NOT",
+    "value" : "リストにない（NOT IN）"
+  }, {
+    "name" : "L_F_IN",
+    "value" : "リストで（IN）"
+  }, {
+    "name" : "L_LNK_TMPL",
+    "value" : "ドキュメントテンプレート"
+  }, {
+    "name" : "B_STRING",
+    "value" : "文字列"
+  }, {
+    "name" : "L_PREVIEW",
+    "value" : "試?"
+  }, {
+    "name" : "L_FONT_UNDERLINE",
+    "value" : "下線"
+  }, {
+    "name" : "L_DELETE_SHORTCUT",
+    "value" : "ショ?トカットを削除"
+  }, {
+    "name" : "L_SC_PR",
+    "value" : "実行する期間"
+  }, {
+    "name" : "L_SCC_TYPE",
+    "value" : "繰り返しタイプ"
+  }, {
+    "name" : "L_SC_C2",
+    "value" : "繰り返しCron"
+  }, {
+    "name" : "L_EXPORT_OPTION",
+    "value" : "オプション"
+  }, {
+    "name" : "L_EXPORT",
+    "value" : "エクスポ?ト"
+  }, {
+    "name" : "L_MAIL_CC",
+    "value" : "メールCC"
+  }, {
+    "name" : "B_METHOD",
+    "value" : "方法"
+  }, {
+    "name" : "L_BG_COL",
+    "value" : "背景の色"
+  }, {
+    "name" : "L_BACK_COLOR",
+    "value" : "バックカラ?"
+  }, {
+    "name" : "L_CSTEP_6",
+    "value" : "バンド"
+  }, {
+    "name" : "L_BAND_TYPE",
+    "value" : "バンド型"
+  }, {
+    "name" : "L_BB_CA",
+    "value" : "バブルの色軸"
+  }, {
+    "name" : "L_BB_SA",
+    "value" : "バブルサイズの軸"
+  }, {
+    "name" : "L_BB_OPT",
+    "value" : "BubbleMapオプション"
+  }, {
+    "name" : "T_REVISION",
+    "value" : "改訂管理"
+  }, {
+    "name" : "L_REVISION",
+    "value" : "バ?ジョン管理"
+  }, {
+    "name" : "B_SVN",
+    "value" : "バ?ジョン管理と回復"
+  }, {
+    "name" : "L_SHOW_LEGEND",
+    "value" : "ショ?レジェンド"
+  }, {
+    "name" : "L_LEGEND_POSITION",
+    "value" : "凡例の位置"
+  }, {
+    "name" : "L_CSTEP_3",
+    "value" : "??"
+  }, {
+    "name" : "S_RAN",
+    "value" : "範?"
+  }, {
+    "name" : "L_SAVE_C_MSG",
+    "value" : "あなたが保存されていない?更を持ってタブを閉じています。?更を保存しますか？"
+  }, {
+    "name" : "L_SAVE_CHANGES",
+    "value" : "?更?容を保存？"
+  }, {
+    "name" : "L_HL_DESC",
+    "value" : "新しいハイライトオプションを作るために編集するか、[新規作成]をクリックするセルをクリックします。"
+  }, {
+    "name" : "L_RM_VAR",
+    "value" : "??を削除します"
+  }, {
+    "name" : "I_BD_CONFIG",
+    "value" : "??"
+  }, {
+    "name" : "L_ADD_VAR",
+    "value" : "??の追加"
+  }, {
+    "name" : "B_SHOW",
+    "value" : "を表示"
+  }, {
+    "name" : "L_VIEW_OPTION",
+    "value" : "??のオプション"
+  }, {
+    "name" : "L_TB_VCH",
+    "value" : "表示の?更]"
+  }, {
+    "name" : "L_SHOW_VIEW_CHANGE",
+    "value" : "ViewModeボタンを表示"
+  }, {
+    "name" : "L_RECOVER",
+    "value" : "回復します"
+  }, {
+    "name" : "L_COPY_ITEM",
+    "value" : "コピ?@"
+  }, {
+    "name" : "D_COMPOSITEREPORT",
+    "value" : "コンポジットレポ?ト"
+  }, {
+    "name" : "L_COMPOSITEREPORT",
+    "value" : "コンポジットレポ?ト"
+  }, {
+    "name" : "L_P_RPT_RT",
+    "value" : "複合ピボット"
+  }, {
+    "name" : "L_V_RPT",
+    "value" : "コンポジットピボットモ?ド"
+  }, {
+    "name" : "L_P_RPT",
+    "value" : "複合ピボット"
+  }, {
+    "name" : "T_COMPOSITE_REPORT",
+    "value" : "コンポジットレポ?ト"
+  }, {
+    "name" : "F_STOT",
+    "value" : "小計"
+  }, {
+    "name" : "B_MINUTE",
+    "value" : "分"
+  }, {
+    "name" : "B_QUARTER",
+    "value" : "四半期"
+  }, {
+    "name" : "S_VAR",
+    "value" : "分散"
+  }, {
+    "name" : "L_ANALYSIS",
+    "value" : "分析"
+  }, {
+    "name" : "I_WIZARD",
+    "value" : "ステップバイステップの分析"
+  }, {
+    "name" : "L_VARIABLES",
+    "value" : "??"
+  }, {
+    "name" : "L_R_ANAL_CUBE",
+    "value" : "分析キュ?ブ"
+  }, {
+    "name" : "L_M_CUBE_SEL",
+    "value" : "解析?象を選?..."
+  }, {
+    "name" : "L_B_AC",
+    "value" : "分析キュ?ブ"
+  }, {
+    "name" : "L_M_SUBJ",
+    "value" : "解析?象："
+  }, {
+    "name" : "L_R_ANAL_CUBE_L",
+    "value" : "サブジェクト名"
+  }, {
+    "name" : "L_MENU_CUBE",
+    "value" : "分析キュ?ブ"
+  }, {
+    "name" : "L_MENU_CUBE_WORK",
+    "value" : "キュ?ブ分析"
+  }, {
+    "name" : "T_METRIC_SETTING",
+    "value" : "メトリックの設定"
+  }, {
+    "name" : "B_REMOVE_PIVOT",
+    "value" : "ピボットを削除"
+  }, {
+    "name" : "L_ADD_METRIC",
+    "value" : "新しい次元を追加します。"
+  }, {
+    "name" : "L_LOADING_REPORT",
+    "value" : "?み?んでいます..."
+  }, {
+    "name" : "L_PASTE_ITEM",
+    "value" : "ここに貼り付け"
+  }, {
+    "name" : "L_ADD_VIEW",
+    "value" : "ビューを追加"
+  }, {
+    "name" : "L_ML_CEFF",
+    "value" : "費用対効果分析"
+  }, {
+    "name" : "L_B_BW",
+    "value" : "Businessワ?クフロ?"
+  }, {
+    "name" : "B_INACTIVE",
+    "value" : "休止中"
+  }, {
+    "name" : "L_B_USR",
+    "value" : "ブロックされたユ?ザ?"
+  }, {
+    "name" : "D_BIGDATA",
+    "value" : "ビッグデ?タ"
+  }, {
+    "name" : "L_BIGDATA",
+    "value" : "ビッグデ?タ"
+  }, {
+    "name" : "T_NOSQLDATA_TITLE",
+    "value" : "BigDataの接?オプション"
+  }, {
+    "name" : "T_NOSQL_CUBE",
+    "value" : "BigData解析キュ?ブ"
+  }, {
+    "name" : "L_HD_BPROC",
+    "value" : "Bigdataデザイン"
+  }, {
+    "name" : "D_BIGDATAMODEL",
+    "value" : "BigDataModel"
+  }, {
+    "name" : "D_NOSQLCUBE",
+    "value" : "BigDataキュ?ブ"
+  }, {
+    "name" : "L_NOSQL_CUBE",
+    "value" : "BigDataキュ?ブ"
+  }, {
+    "name" : "L_NULL_VALUE",
+    "value" : "ヌル値"
+  }, {
+    "name" : "L_REM_BLK",
+    "value" : "ブランク値を削除します"
+  }, {
+    "name" : "M_BLANK",
+    "value" : "アイテムの追加"
+  }, {
+    "name" : "B_ENABLED",
+    "value" : "有?"
+  }, {
+    "name" : "B_ENABLE",
+    "value" : "有?"
+  }, {
+    "name" : "B_USER_DOC",
+    "value" : "手順"
+  }, {
+    "name" : "I_USER",
+    "value" : "ユ?ザ?"
+  }, {
+    "name" : "M_LOCK_MSG",
+    "value" : "コンテンツは、@ 2で@ 1によってロックされています"
+  }, {
+    "name" : "L_BTN_EVTDESC",
+    "value" : "ユーザー選択値を無効にして実行し、ボタンクリックイベントを待ちます。"
+  }, {
+    "name" : "L_USER_MANAGEMENT",
+    "value" : "利用者管理"
+  }, {
+    "name" : "I_USER_MANAGER",
+    "value" : "ユ?ザ?マネ?ジャ"
+  }, {
+    "name" : "L_MGR_USER",
+    "value" : "ユ?ザ?マネ?ジャ"
+  }, {
+    "name" : "L_USER_DUTY",
+    "value" : "ユ?ザ?デュ?ティ"
+  }, {
+    "name" : "L_MGR_UD",
+    "value" : "ユ?ザ?デュ?ティ管理"
+  }, {
+    "name" : "T_USER_GROUP",
+    "value" : "ユ?ザ?グル?プ"
+  }, {
+    "name" : "T_SYNC_USER",
+    "value" : "ユ?ザ?の同期"
+  }, {
+    "name" : "W_SYNC_SAVE",
+    "value" : "あなたは、サ?バ?でユ?ザ?同期パラメ?タを保存しますか？"
+  }, {
+    "name" : "W_SYNC_USER",
+    "value" : "あなたは、サ?バ?でユ?ザ?同期を?行しますか？"
+  }, {
+    "name" : "T_REG_USER",
+    "value" : "登?ユ?ザ?"
+  }, {
+    "name" : "L_B_CM",
+    "value" : "カスタムメトリック"
+  }, {
+    "name" : "L_USERNAME",
+    "value" : "ユ?ザ?の名前"
+  }, {
+    "name" : "L_DB_UNAME",
+    "value" : "ユ?ザ?名"
+  }, {
+    "name" : "L_USERID",
+    "value" : "ユ?ザ?ID"
+  }, {
+    "name" : "B_CUSTOM",
+    "value" : "カスタム"
+  }, {
+    "name" : "L_CUSTOM_FIX",
+    "value" : "カスタム修正"
+  }, {
+    "name" : "D_GROUPFIELD",
+    "value" : "ユ?ザ?定義のグル?プ"
+  }, {
+    "name" : "D_UDG",
+    "value" : "ユ?ザ定義グル?プ"
+  }, {
+    "name" : "L_UDG",
+    "value" : "ユ?ザ定義グル?プ"
+  }, {
+    "name" : "T_UDG",
+    "value" : "ユ?ザ定義グル?プ"
+  }, {
+    "name" : "T_CUSTOM_METRIC",
+    "value" : "カスタム?メトリック"
+  }, {
+    "name" : "L_CUSTOM_FIELD",
+    "value" : "カスタムフィ?ルド"
+  }, {
+    "name" : "L_ADD_USER",
+    "value" : "ユ?ザ?の追加"
+  }, {
+    "name" : "L_ADD_EXISTING_USER",
+    "value" : "ユ?ザ?の追加(Existing)"
+  }, {
+    "name" : "L_UD_DESC",
+    "value" : "リストからユ?ザ?のデュ?ティを選?します。"
+  }, {
+    "name" : "D_CUSTOMMETRIC",
+    "value" : "カスタム?メトリック"
+  }, {
+    "name" : "L_CUSTOM_METRIC",
+    "value" : "カスタム?メトリック"
+  }, {
+    "name" : "L_FIXEDSIZE",
+    "value" : "固定サイズモ?ド"
+  }, {
+    "name" : "L_SQL_PRE",
+    "value" : "前?理"
+  }, {
+    "name" : "L_DLOCALE_MGR",
+    "value" : "辞書ロケール"
+  }, {
+    "name" : "L_LM_EXP",
+    "value" : "エクスポ?トロケ?ル?デ?タ"
+  }, {
+    "name" : "L_LM_LCS",
+    "value" : "ロケ?ル項目の追加"
+  }, {
+    "name" : "L_LM_IMP",
+    "value" : "インポ?トロケ?ル?デ?タ"
+  }, {
+    "name" : "L_E_DEL",
+    "value" : "削除"
+  }, {
+    "name" : "B_DELETE",
+    "value" : "削除する"
+  }, {
+    "name" : "B_REMOVE",
+    "value" : "削除"
+  }, {
+    "name" : "L_DELETE_ITEM",
+    "value" : "削除@"
+  }, {
+    "name" : "L_RELATION_VIEW",
+    "value" : "?連ビュ?"
+  }, {
+    "name" : "L_PAD_TOP",
+    "value" : "上"
+  }, {
+    "name" : "L_LNK_DRILL",
+    "value" : "詳細へのドリル"
+  }, {
+    "name" : "L_DRILLREPORT",
+    "value" : "詳細ビュ?に使用します"
+  }, {
+    "name" : "L_DET_VIEW",
+    "value" : "詳細?"
+  }, {
+    "name" : "T_DRILL_CONFIG",
+    "value" : "詳細表示設定"
+  }, {
+    "name" : "L_DRILL_ON",
+    "value" : "ドリルする列"
+  }, {
+    "name" : "M_DETAIL",
+    "value" : "細部"
+  }, {
+    "name" : "B_TOP",
+    "value" : "上"
+  }, {
+    "name" : "L_RANK_TOP",
+    "value" : "ランクトップ"
+  }, {
+    "name" : "L_B_U",
+    "value" : "上がる"
+  }, {
+    "name" : "B_STATUS",
+    "value" : "?態"
+  }, {
+    "name" : "L_NEW_RPT_VIEWER",
+    "value" : "新しいレポ?トビュ?ア"
+  }, {
+    "name" : "I_WORKSPACE",
+    "value" : "新規ワ?クスペ?ス"
+  }, {
+    "name" : "L_NEW_PANEL",
+    "value" : "新しいパネル"
+  }, {
+    "name" : "L_REFRESH",
+    "value" : "リフレッシュ"
+  }, {
+    "name" : "L_BAND_COLOR",
+    "value" : "色"
+  }, {
+    "name" : "B_COLOR",
+    "value" : "色"
+  }, {
+    "name" : "B_OWNER",
+    "value" : "オ?ナ?"
+  }, {
+    "name" : "B_CR",
+    "value" : "作成.."
+  }, {
+    "name" : "L_TYPE_ITEM_NAME",
+    "value" : "設定項目名が作成します"
+  }, {
+    "name" : "I_SERVER_CONFIG",
+    "value" : "サ?バ?構成"
+  }, {
+    "name" : "M_ERR_CONNECT",
+    "value" : "サ?バ?上の接?を取得できませんでした！後で再試行してください"
+  }, {
+    "name" : "L_P_inv_svc",
+    "value" : "サ?ビスの呼び出し"
+  }, {
+    "name" : "B_SEL",
+    "value" : "選?"
+  }, {
+    "name" : "B_MOVE_DOWN",
+    "value" : "ダウン行を移動します"
+  }, {
+    "name" : "B_MOVE_UP",
+    "value" : "行を上に移動"
+  }, {
+    "name" : "B_CD_MHS",
+    "value" : "あなたは、移動のような@に項目をチェックしますか？"
+  }, {
+    "name" : "B_CD_CHS",
+    "value" : "あなたがチェックされた項目を削除したいですか？"
+  }, {
+    "name" : "L_DELETE_CHECKED",
+    "value" : "削除チェックします"
+  }, {
+    "name" : "L_REMOVE_SELECTED",
+    "value" : "削除選?"
+  }, {
+    "name" : "B_DESC",
+    "value" : "?明"
+  }, {
+    "name" : "L_DESCRIPTION",
+    "value" : "?明"
+  }, {
+    "name" : "L_PREFERENCES",
+    "value" : "環境設定"
+  }, {
+    "name" : "L_DESKTOP_SETTING",
+    "value" : "設定"
+  }, {
+    "name" : "L_CHANGE_SETTING",
+    "value" : "設定の?更"
+  }, {
+    "name" : "L_SEL_MODE",
+    "value" : "セレクト?モ?ド"
+  }, {
+    "name" : "M_SUCCESS",
+    "value" : "成功！"
+  }, {
+    "name" : "B_SUCCESS",
+    "value" : "正常に完了したプロセス"
+  }, {
+    "name" : "L_CVAL_DESC",
+    "value" : "セミコロン?切り文字でテキストを入力"
+  }, {
+    "name" : "L_HL_CELL",
+    "value" : "セルのみ"
+  }, {
+    "name" : "L_PADDING",
+    "value" : "パディング"
+  }, {
+    "name" : "L_NUMBER_PRECISION",
+    "value" : "?値精度"
+  }, {
+    "name" : "B_PROPERTY",
+    "value" : "プロパティ"
+  }, {
+    "name" : "D_FORMULA",
+    "value" : "式"
+  }, {
+    "name" : "L_FORMULA",
+    "value" : "式"
+  }, {
+    "name" : "D_FORMULAMEASURE",
+    "value" : "式"
+  }, {
+    "name" : "L_CFIT_FOR",
+    "value" : "式を表示"
+  }, {
+    "name" : "L_USE_FORMULA",
+    "value" : "表示式"
+  }, {
+    "name" : "T_FORMULA_MEASURE",
+    "value" : "フォ?ミュラ?策"
+  }, {
+    "name" : "L_SYNTAX_FORMULA",
+    "value" : "式の構文"
+  }, {
+    "name" : "L_S_GRST",
+    "value" : "グル?プ結果"
+  }, {
+    "name" : "L_S_TROW",
+    "value" : "一番上の行に表示します"
+  }, {
+    "name" : "L_SEP_COL",
+    "value" : "別欄"
+  }, {
+    "name" : "B_MODI",
+    "value" : "モディファイ"
+  }, {
+    "name" : "L_VERTICAL",
+    "value" : "垂直"
+  }, {
+    "name" : "L_ALIGN_VERTICAL",
+    "value" : "垂直整列"
+  }, {
+    "name" : "L_LAYOUT_VERTICAL",
+    "value" : "垂直"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_HORIZONTAL",
+    "value" : "Horizontal"
+  }, {
+    "name" : "L_LAYOUT_HORIZONTAL",
+    "value" : "水平の"
+  }, {
+    "name" : "F_RNK",
+    "value" : "ランク"
+  }, {
+    "name" : "L_RNK_VAL",
+    "value" : "値のランク"
+  }, {
+    "name" : "L_RANK_OPTION",
+    "value" : "ランクオプション"
+  }, {
+    "name" : "L_RNK_CNT",
+    "value" : "ランク?"
+  }, {
+    "name" : "L_RNK_PAR",
+    "value" : "パ?ティションにより、"
+  }, {
+    "name" : "L_BTN_TRGALLDESC",
+    "value" : "非表示パネルを含むすべてのフィルタを再帰的に検証します"
+  }, {
+    "name" : "B_HIDE",
+    "value" : "ヒドゥン"
+  }, {
+    "name" : "B_NUMERIC",
+    "value" : "?字の"
+  }, {
+    "name" : "L_NUM_PREC",
+    "value" : "?精度"
+  }, {
+    "name" : "T_BG_SC",
+    "value" : "シェルコマンド"
+  }, {
+    "name" : "B_SHEET_NAME",
+    "value" : "シ?ト名"
+  }, {
+    "name" : "L_R_ANAL_CUBE_LBL",
+    "value" : "シ?トキュ?ブ"
+  }, {
+    "name" : "T_SHEET_OPTION",
+    "value" : "シ?トオプション"
+  }, {
+    "name" : "L_SHEET_OPTIONS",
+    "value" : "シ?トオプション"
+  }, {
+    "name" : "L_SHEET_NUM",
+    "value" : "シート番号"
+  }, {
+    "name" : "L_ADD_SHEET",
+    "value" : "シ?トを追加します。"
+  }, {
+    "name" : "L_C_SCH",
+    "value" : "スケジュ?ル結果を搭載。あなたは、サ?バ?に照?しますか？"
+  }, {
+    "name" : "L_REG_SCH",
+    "value" : "スケジュ?ルを登?します"
+  }, {
+    "name" : "I_SCHEDULE",
+    "value" : "スケジュ?ル監視"
+  }, {
+    "name" : "I_SCHEDULE_MOD",
+    "value" : "Schedule Module"
+  }, {
+    "name" : "L_LST_SCH",
+    "value" : "スケジュ?ル一?"
+  }, {
+    "name" : "L_SC_CT",
+    "value" : "スケジュールの種類"
+  }, {
+    "name" : "B_SCHEDULE",
+    "value" : "スケジュ?ル"
+  }, {
+    "name" : "L_SCRIPT_WIZARD",
+    "value" : "スクリプトウィザ?ド"
+  }, {
+    "name" : "D_SCHEMA",
+    "value" : "スキ?マ"
+  }, {
+    "name" : "L_SCHEMA",
+    "value" : "スキ?マ"
+  }, {
+    "name" : "L_SCHEMA_NAME",
+    "value" : "スキ?マ名"
+  }, {
+    "name" : "L_REN_SCH",
+    "value" : "名前の?更"
+  }, {
+    "name" : "B_ST_NAME",
+    "value" : "スタイル"
+  }, {
+    "name" : "L_LOOK_AND_FEEL",
+    "value" : "ルックアンドフィ?ル"
+  }, {
+    "name" : "L_GRID_STYLE",
+    "value" : "グリッドのスタイルを設定します。"
+  }, {
+    "name" : "L_STYLE_OPTION",
+    "value" : "スタイルオプション"
+  }, {
+    "name" : "L_OPT_STYLE",
+    "value" : "スタイルオプション"
+  }, {
+    "name" : "L_LD_ST",
+    "value" : "スタイル"
+  }, {
+    "name" : "L_STYLENAME",
+    "value" : "スタイル名"
+  }, {
+    "name" : "L_ST_NAME",
+    "value" : "スタイル名"
+  }, {
+    "name" : "L_F_STR",
+    "value" : "文字列フォ?マット"
+  }, {
+    "name" : "L_CLOSEABLE",
+    "value" : "開閉可能な"
+  }, {
+    "name" : "L_TC_DU",
+    "value" : "所要時間（ミリ秒）"
+  }, {
+    "name" : "B_HOUR",
+    "value" : "1時間"
+  }, {
+    "name" : "L_DF_TS",
+    "value" : "別?の時間"
+  }, {
+    "name" : "L_TIME_FMT",
+    "value" : "時間形式"
+  }, {
+    "name" : "L_TC_TA",
+    "value" : "時間軸"
+  }, {
+    "name" : "L_TIMEZONE",
+    "value" : "タイムゾ?ン"
+  }, {
+    "name" : "L_TZ_OFFSET",
+    "value" : "時間オフセット"
+  }, {
+    "name" : "L_SHOW_TZ",
+    "value" : "ショ?タイムゾ?ン"
+  }, {
+    "name" : "T_DM",
+    "value" : "DateMetricエディタ"
+  }, {
+    "name" : "L_TIME_OPTION",
+    "value" : "時系列オプション"
+  }, {
+    "name" : "L_SERIES_LAYOUT",
+    "value" : "シリ?ズレイアウト"
+  }, {
+    "name" : "L_SERIES",
+    "value" : "シリ?ズオプション"
+  }, {
+    "name" : "L_SERIES_TYPE",
+    "value" : "シリ?ズタイプ"
+  }, {
+    "name" : "L_SYSTEM",
+    "value" : "システム"
+  }, {
+    "name" : "T_SYS_RES",
+    "value" : "システムリソ?ス"
+  }, {
+    "name" : "L_SYS_RES",
+    "value" : "システムリソ?ス"
+  }, {
+    "name" : "I_SYSMON",
+    "value" : "システム監視"
+  }, {
+    "name" : "D_PRIVATECONTENT",
+    "value" : "システムドキュメント"
+  }, {
+    "name" : "I_ABOUT_DETAIL",
+    "value" : "約"
+  }, {
+    "name" : "L_S_LK",
+    "value" : "コ???ドのマッピングの管理"
+  }, {
+    "name" : "B_T_FR",
+    "value" : "時間から"
+  }, {
+    "name" : "B_DT_FR",
+    "value" : "開始日"
+  }, {
+    "name" : "L_MAKESTYLE",
+    "value" : "新しいスタイルの定義"
+  }, {
+    "name" : "L_PWD_NEW",
+    "value" : "新しいパスワ?ド"
+  }, {
+    "name" : "L_MAKEITEM_G",
+    "value" : "アイテムを作ります"
+  }, {
+    "name" : "L_MAKEITEM",
+    "value" : "アイテムを作ります（@）"
+  }, {
+    "name" : "S_REL",
+    "value" : "信?性の高いです"
+  }, {
+    "name" : "B_EXECUTE",
+    "value" : "?行"
+  }, {
+    "name" : "L_RUN",
+    "value" : "ファイル名を指定して?行"
+  }, {
+    "name" : "L_RUN_BUTTON",
+    "value" : "ボタンを?行します。"
+  }, {
+    "name" : "L_BTN_TRG",
+    "value" : "実行イベントのトリガ"
+  }, {
+    "name" : "B_UNDO",
+    "value" : "?更を元に?します"
+  }, {
+    "name" : "L_BTN_ROW_ON",
+    "value" : "行番?のボタン"
+  }, {
+    "name" : "L_BTN_TRGDESC",
+    "value" : "実行ボタンをクリックすると、他のフィルタボックスの値をトリガします。"
+  }, {
+    "name" : "L_RUN_REPORT",
+    "value" : "ファイル名を指定して?行"
+  }, {
+    "name" : "B_NO",
+    "value" : "ノ?"
+  }, {
+    "name" : "L_PAD_BOTTOM",
+    "value" : "底の"
+  }, {
+    "name" : "L_INPUT_USERID",
+    "value" : "ID"
+  }, {
+    "name" : "B_ID",
+    "value" : "ID"
+  }, {
+    "name" : "B_INSIDE",
+    "value" : "?部"
+  }, {
+    "name" : "L_INNER_RADIUS",
+    "value" : "?半?"
+  }, {
+    "name" : "L_EVENT_WIZARD",
+    "value" : "アクションウィザ?ド"
+  }, {
+    "name" : "L_APPL",
+    "value" : "アプリケ?ション"
+  }, {
+    "name" : "L_SW_APP",
+    "value" : "スイッチアプリケ?ション"
+  }, {
+    "name" : "L_LOCALE_MANAGER",
+    "value" : "ロケ?ルマネ?ジャ?"
+  }, {
+    "name" : "L_SELECT_LOCALE",
+    "value" : "言語を選?する"
+  }, {
+    "name" : "I_LOC_MGR",
+    "value" : "ロケ?ルマネ?ジャ?"
+  }, {
+    "name" : "L_R_UT_DRILL",
+    "value" : "シ?トを更新"
+  }, {
+    "name" : "L_DATA_TAB",
+    "value" : "アップロ?ドされたデ?タ"
+  }, {
+    "name" : "L_STG_LINE",
+    "value" : "食い違いライン"
+  }, {
+    "name" : "L_DF_YF",
+    "value" : "年の形式"
+  }, {
+    "name" : "B_OP",
+    "value" : "オペレ?タ?"
+  }, {
+    "name" : "L_HL_COL",
+    "value" : "コラム"
+  }, {
+    "name" : "L_P_COL",
+    "value" : "コラムDimensios"
+  }, {
+    "name" : "L_AREA_COLUMN",
+    "value" : "カラム"
+  }, {
+    "name" : "L_ENGLISH",
+    "value" : "英語"
+  }, {
+    "name" : "L_MAP_AXIS",
+    "value" : "地?軸"
+  }, {
+    "name" : "B_ZOOM",
+    "value" : "ズ?ム"
+  }, {
+    "name" : "B_OK",
+    "value" : "[OK]"
+  }, {
+    "name" : "B_YES",
+    "value" : "はい"
+  }, {
+    "name" : "L_CFIT_FCS",
+    "value" : "予報"
+  }, {
+    "name" : "M_ERROR",
+    "value" : "エラ?"
+  }, {
+    "name" : "L_ALIGN_RIGHT",
+    "value" : "右"
+  }, {
+    "name" : "L_PAD_RIGHT",
+    "value" : "右"
+  }, {
+    "name" : "B_ASC",
+    "value" : "上昇"
+  }, {
+    "name" : "B_ORDER_ASC",
+    "value" : "注文の昇順"
+  }, {
+    "name" : "B_OVERFLOW",
+    "value" : "オ?バ?フロ?"
+  }, {
+    "name" : "B_AMPM",
+    "value" : "午前午後"
+  }, {
+    "name" : "L_DF_APM",
+    "value" : "午前午後"
+  }, {
+    "name" : "L_EXP_OFFICE",
+    "value" : "オフィスダイレクト"
+  }, {
+    "name" : "L_EXPORT_OFFICE",
+    "value" : "オフィスダイレクト"
+  }, {
+    "name" : "B_OPTION",
+    "value" : "オプション"
+  }, {
+    "name" : "L_OPTIONS",
+    "value" : "オプション"
+  }, {
+    "name" : "S_SKEW",
+    "value" : "歪度"
+  }, {
+    "name" : "L_LNK_EXT",
+    "value" : "外部URLリンク"
+  }, {
+    "name" : "L_R_CMENU",
+    "value" : "外部ドリルタ?ゲット"
+  }, {
+    "name" : "L_ALIGN_LEFT",
+    "value" : "左"
+  }, {
+    "name" : "L_PAD_LEFT",
+    "value" : "左"
+  }, {
+    "name" : "L_DF_WD",
+    "value" : "平日"
+  }, {
+    "name" : "B_WEEK",
+    "value" : "週間"
+  }, {
+    "name" : "L_DF_WF",
+    "value" : "平日のフォ?マット"
+  }, {
+    "name" : "L_DF_WD_O",
+    "value" : "平日注文"
+  }, {
+    "name" : "L_BORDER_RIGHT",
+    "value" : "ボ?ダ?右"
+  }, {
+    "name" : "L_DATE_FORMAT_SRC",
+    "value" : "ソ?ス日付書式"
+  }, {
+    "name" : "B_MONTH",
+    "value" : "月"
+  }, {
+    "name" : "L_DF_MF",
+    "value" : "月フォ?マ??ット"
+  }, {
+    "name" : "B_WEEKMONTH",
+    "value" : "週月"
+  }, {
+    "name" : "L_EXPORT_PRINT",
+    "value" : "HTMLを印刷"
+  }, {
+    "name" : "L_LATITUDE",
+    "value" : "緯度"
+  }, {
+    "name" : "L_RO_INST1",
+    "value" : "上記のオプションを選?してください。"
+  }, {
+    "name" : "B_LOC",
+    "value" : "ロケ?ション"
+  }, {
+    "name" : "L_P_open_win",
+    "value" : "オ?プンウィンドウ"
+  }, {
+    "name" : "L_ML_C3",
+    "value" : "ユーティリティノード"
+  }, {
+    "name" : "L_FEATURE",
+    "value" : "特?"
+  }, {
+    "name" : "B_TYPE",
+    "value" : "タイプ"
+  }, {
+    "name" : "L_TYPE",
+    "value" : "タイプ"
+  }, {
+    "name" : "T_RSN",
+    "value" : "レポ?トなじります"
+  }, {
+    "name" : "M_NOT_EDITABLE",
+    "value" : "このアイテムを編集することはできません！"
+  }, {
+    "name" : "L_GOTO",
+    "value" : "後藤"
+  }, {
+    "name" : "L_MOVE",
+    "value" : "移動"
+  }, {
+    "name" : "L_B_MVT",
+    "value" : "へ引っ越す"
+  }, {
+    "name" : "B_NAME",
+    "value" : "名"
+  }, {
+    "name" : "L_RENAME",
+    "value" : "名前の?更"
+  }, {
+    "name" : "L_RENAME_ITEM",
+    "value" : "名前の?更@"
+  }, {
+    "name" : "T_RENAME_ITEM",
+    "value" : "項目の名前を?更します（@）"
+  }, {
+    "name" : "L_EMAIL",
+    "value" : "Eメ?ル"
+  }, {
+    "name" : "L_NOTI_EMAIL",
+    "value" : "メール通知"
+  }, {
+    "name" : "T_SAVE_IMAGE",
+    "value" : "?像"
+  }, {
+    "name" : "L_SAVE_IMAGE",
+    "value" : "イメ?ジとして保存"
+  }, {
+    "name" : "L_BTN_EVT",
+    "value" : "イベントで実行"
+  }, {
+    "name" : "L_C_PREV",
+    "value" : "前へ"
+  }, {
+    "name" : "B_PREVIOUS",
+    "value" : "前"
+  }, {
+    "name" : "L_CLC_PERI",
+    "value" : "期限切れ"
+  }, {
+    "name" : "B_DAY",
+    "value" : "日"
+  }, {
+    "name" : "L_C_D_NAMES_M",
+    "value" : "SU＃MO＃のTU＃WE＃TH＃FR＃SA"
+  }, {
+    "name" : "L_C_D_NAMES_S",
+    "value" : "日＃月＃＃火水木＃の＃＃金土"
+  }, {
+    "name" : "B_GENERAL",
+    "value" : "一般"
+  }, {
+    "name" : "L_LAYOUT_NORMAL",
+    "value" : "通常の"
+  }, {
+    "name" : "L_GENERAL_OPTION",
+    "value" : "一般的なオプション"
+  }, {
+    "name" : "L_C_D_NAMES",
+    "value" : "日曜日月曜日火曜日水曜日の木曜日金曜日土曜日"
+  }, {
+    "name" : "L_DF_DS",
+    "value" : "別?の日"
+  }, {
+    "name" : "L_DF_DF",
+    "value" : "デイフォ?マット"
+  }, {
+    "name" : "L_AUTO_WIDTH",
+    "value" : "自動サイズ調整"
+  }, {
+    "name" : "L_BUILD",
+    "value" : "推?ビルドアイテム"
+  }, {
+    "name" : "L_ML_LEARN",
+    "value" : "学ぶ"
+  }, {
+    "name" : "D_CLASSMODULE",
+    "value" : "ClassModule"
+  }, {
+    "name" : "D_JAVAPACKAGE",
+    "value" : "Javaパッケ?ジ"
+  }, {
+    "name" : "L_P_execute_script",
+    "value" : "ファイル名を指定して?行するJavaScript"
+  }, {
+    "name" : "L_M_SUBJ_REC",
+    "value" : "最近使用したアイテム"
+  }, {
+    "name" : "L_F_LE",
+    "value" : "以下（<=）"
+  }, {
+    "name" : "L_F_LE_NOT",
+    "value" : "以下はありません（>）"
+  }, {
+    "name" : "L_F_LT",
+    "value" : "未?（<）"
+  }, {
+    "name" : "L_JB_STAT",
+    "value" : "仕事の状況"
+  }, {
+    "name" : "D_WORKSPACE",
+    "value" : "ワ?クスペ?ス"
+  }, {
+    "name" : "B_WORKSPACE",
+    "value" : "ワ?クスペ?ス"
+  }, {
+    "name" : "L_WORKSPACE",
+    "value" : "新規ワ?クスペ?ス"
+  }, {
+    "name" : "L_C_MW",
+    "value" : "ワ?クスペ?スの管理"
+  }, {
+    "name" : "L_F_LT_NOT",
+    "value" : "小さくないその後（> =）"
+  }, {
+    "name" : "B_UNLOCK",
+    "value" : "ロック解除"
+  }, {
+    "name" : "B_SAVE",
+    "value" : "セ?ブ"
+  }, {
+    "name" : "L_SELECT_PATH",
+    "value" : "作成するパスを選?"
+  }, {
+    "name" : "M_ERR_NSAVE",
+    "value" : "コンテンツを保存する必要があります！"
+  }, {
+    "name" : "B_APPLY",
+    "value" : "適用"
+  }, {
+    "name" : "L_APPL_R",
+    "value" : "上の適用"
+  }, {
+    "name" : "L_CLC_HOUR",
+    "value" : "でクリア"
+  }, {
+    "name" : "L_TM_ALG",
+    "value" : "アルゴリズム"
+  }, {
+    "name" : "L_LAYOUT_CASCADE",
+    "value" : "カスケ?ド"
+  }, {
+    "name" : "L_DRILL_PARAM",
+    "value" : "段落への列"
+  }, {
+    "name" : "L_FETCH_ALL",
+    "value" : "すべてのデ?タの取得"
+  }, {
+    "name" : "B_SHOW_ALL",
+    "value" : "すべて表示する"
+  }, {
+    "name" : "L_EN_DRILL",
+    "value" : "すべてにドリル"
+  }, {
+    "name" : "L_EN_DRILL_DESC",
+    "value" : "すべてのシートにドリルするようにチェック"
+  }, {
+    "name" : "L_CFIT_SS",
+    "value" : "要約曲線を表示"
+  }, {
+    "name" : "L_ALL_VALUE",
+    "value" : "すべての値"
+  }, {
+    "name" : "F_P_POT",
+    "value" : "合計の割合"
+  }, {
+    "name" : "E_SWA_CFM",
+    "value" : "に切り替えるには、アプリケ?ション名を選?してください。"
+  }, {
+    "name" : "L_FONT_ALIGNMENT",
+    "value" : "アライメント"
+  }, {
+    "name" : "L_SORT_SEL",
+    "value" : "ソ?トする方法"
+  }, {
+    "name" : "L_SORT_TP",
+    "value" : "ソ?トタイプ"
+  }, {
+    "name" : "L_DF_OS",
+    "value" : "注文スタイル"
+  }, {
+    "name" : "L_SORT_ORD",
+    "value" : "注文をソ?ト"
+  }, {
+    "name" : "L_SORT_OPTION",
+    "value" : "ランクとソ?ト"
+  }, {
+    "name" : "L_F_SORT",
+    "value" : "ソ?トフィ?ルド"
+  }, {
+    "name" : "T_SORT_OPTION",
+    "value" : "ソ?トオプション"
+  }, {
+    "name" : "M_INFO",
+    "value" : "情報！"
+  }, {
+    "name" : "L_REMOVE",
+    "value" : "削除"
+  }, {
+    "name" : "L_SHOW_TITLE",
+    "value" : "ショ?のタイトル"
+  }, {
+    "name" : "L_TITLE_OPTION",
+    "value" : "タイトルの設定"
+  }, {
+    "name" : "L_CONDITION",
+    "value" : "?件"
+  }, {
+    "name" : "L_ADD_CONDITION",
+    "value" : "?件を追加します。"
+  }, {
+    "name" : "M_S_S2",
+    "value" : "登??み表が見つかりません結果。"
+  }, {
+    "name" : "L_JOIN",
+    "value" : "参加する"
+  }, {
+    "name" : "L_ADD_JOIN",
+    "value" : "?加追加"
+  }, {
+    "name" : "L_BTN_SEARCH",
+    "value" : "サ?チ"
+  }, {
+    "name" : "L_ROW_LIMIT_COUNT",
+    "value" : "限界?"
+  }, {
+    "name" : "B_NO_DATA",
+    "value" : "デ?タなし"
+  }, {
+    "name" : "L_EMPTY_DATA",
+    "value" : "このリスト?の空"
+  }, {
+    "name" : "L_VIEW_MODE_LBL",
+    "value" : "デ?タクエリビュ?ア"
+  }, {
+    "name" : "B_PROC",
+    "value" : "リクエストを?理しています.. <BR>しばらくお待ちください。"
+  }, {
+    "name" : "L_BAND_VALUE_2",
+    "value" : "値に"
+  }, {
+    "name" : "B_T_TO",
+    "value" : "時間に"
+  }, {
+    "name" : "B_DT_TO",
+    "value" : "現在まで"
+  }, {
+    "name" : "L_F_VALUE_TO",
+    "value" : "貴ぶ"
+  }, {
+    "name" : "L_T_LOGOUT",
+    "value" : "ログアウト"
+  }, {
+    "name" : "L_M_LOGOUT",
+    "value" : "あなたがログアウトしてもよろしいですか？"
+  }, {
+    "name" : "L_C_W_H",
+    "value" : "週間"
+  }, {
+    "name" : "L_DISTINCT_QUERY",
+    "value" : "個別照?"
+  }, {
+    "name" : "L_DISTINCT",
+    "value" : "個別のすべての行を返します"
+  }, {
+    "name" : "S_MEDIAN",
+    "value" : "中央値"
+  }, {
+    "name" : "B_FAVORITES",
+    "value" : "お?に入り"
+  }, {
+    "name" : "M_SAVED_FAV",
+    "value" : "お?に入りリストに追加しました"
+  }, {
+    "name" : "L_C_FC",
+    "value" : "私のお?に入り"
+  }, {
+    "name" : "F_INC",
+    "value" : "?分"
+  }, {
+    "name" : "L_GEO_FIELD",
+    "value" : "ジオロケ?ション"
+  }, {
+    "name" : "L_CONTACT_HELP",
+    "value" : "サポ?トについてはお問い合わせください"
+  }, {
+    "name" : "L_EV_MIN",
+    "value" : "毎分"
+  }, {
+    "name" : "L_SC_C3",
+    "value" : "一度に実行する"
+  }, {
+    "name" : "L_EV_HOUR",
+    "value" : "毎時"
+  }, {
+    "name" : "M_UNKNOWN",
+    "value" : "不明なエラ?！"
+  }, {
+    "name" : "L_E_VALUE",
+    "value" : "タイプ値"
+  }, {
+    "name" : "L_AGGR",
+    "value" : "集計"
+  }, {
+    "name" : "F_DIFF",
+    "value" : "差"
+  }, {
+    "name" : "L_CSTEP_1",
+    "value" : "チャ?ト"
+  }, {
+    "name" : "T_CHART_WIZARD",
+    "value" : "チャ?トデザイナ"
+  }, {
+    "name" : "L_CLR_SET",
+    "value" : "色セット"
+  }, {
+    "name" : "T_CHART_SERIES",
+    "value" : "チャ?トシリ?ズ"
+  }, {
+    "name" : "L_CSTEP_4",
+    "value" : "プロットエリア"
+  }, {
+    "name" : "L_CHART_OPTION",
+    "value" : "デ?タピボットオプション"
+  }, {
+    "name" : "L_CHART_GROUP",
+    "value" : "チャ?トカテゴリ"
+  }, {
+    "name" : "L_CHART_THEME",
+    "value" : "チャ?トテ?マ"
+  }, {
+    "name" : "T_CHART_PLOTBAND",
+    "value" : "チャ?トプロットバンド"
+  }, {
+    "name" : "L_VIEW_CHART",
+    "value" : "チャ?トビュ?"
+  }, {
+    "name" : "L_CHART_TYPE",
+    "value" : "チャ?トの種類"
+  }, {
+    "name" : "L_MAX_CHART_ELEMENT",
+    "value" : "デ?タ要素"
+  }, {
+    "name" : "T_BG_SCR",
+    "value" : "コマンド結果"
+  }, {
+    "name" : "L_WAIT_1",
+    "value" : "リクエストの?理中お待ちください"
+  }, {
+    "name" : "S_HOME",
+    "value" : "ホ?ム"
+  }, {
+    "name" : "S_KURT",
+    "value" : "尖度"
+  }, {
+    "name" : "B_SECOND",
+    "value" : "第二"
+  }, {
+    "name" : "B_DEFAULT",
+    "value" : "デフォルト"
+  }, {
+    "name" : "B_CLEAR",
+    "value" : "明確な"
+  }, {
+    "name" : "L_C_LC",
+    "value" : "最新のコンテンツ"
+  }, {
+    "name" : "L_BB_MS",
+    "value" : "最大?泡サイズ"
+  }, {
+    "name" : "S_MAX",
+    "value" : "最大"
+  }, {
+    "name" : "F_MAX",
+    "value" : "最大"
+  }, {
+    "name" : "F_MIN",
+    "value" : "最小"
+  }, {
+    "name" : "L_MIN_WIDTH",
+    "value" : "ミン幅"
+  }, {
+    "name" : "L_MIN_HEIGHT",
+    "value" : "最低の高さ"
+  }, {
+    "name" : "S_MIN",
+    "value" : "最小"
+  }, {
+    "name" : "L_LAST_UPD",
+    "value" : "最終更新時間："
+  }, {
+    "name" : "B_LASTUPD",
+    "value" : "最終更新"
+  }, {
+    "name" : "B_ADD",
+    "value" : "追加"
+  }, {
+    "name" : "L_ML_C4a",
+    "value" : "推論"
+  }, {
+    "name" : "L_SWAP_AXIS",
+    "value" : "スワップ軸"
+  }, {
+    "name" : "T_BG_OP",
+    "value" : "出力"
+  }, {
+    "name" : "L_TB_PRT_T",
+    "value" : "輸出タ?ゲット（複?）"
+  }, {
+    "name" : "T_EXPORT_WIZARD",
+    "value" : "エクスポ?トウィザ?ド"
+  }, {
+    "name" : "L_TB_PRT",
+    "value" : "エクスポ?トボタン"
+  }, {
+    "name" : "L_EXP_MET",
+    "value" : "メニュ?コントロ?ル"
+  }, {
+    "name" : "L_EXP_MET_DESC",
+    "value" : "このレポ?トで使用するメニュ?項目を確認してください。"
+  }, {
+    "name" : "L_LNK_DOC",
+    "value" : "エクスポートファイルのダウンロード"
+  }, {
+    "name" : "L_OUTP_TYPE",
+    "value" : "出力タイプ"
+  }, {
+    "name" : "L_PG_RANGE",
+    "value" : "ペ?ジ範?"
+  }, {
+    "name" : "L_PG_START",
+    "value" : "ペ?ジスタ?トから"
+  }, {
+    "name" : "B_PROC_CANCEL",
+    "value" : "キャンセル"
+  }, {
+    "name" : "B_CANCEL",
+    "value" : "キャンセル"
+  }, {
+    "name" : "L_USE_CACHE",
+    "value" : "キャッシュを使用"
+  }, {
+    "name" : "L_CACHE_PERI",
+    "value" : "キャッシュ期間"
+  }, {
+    "name" : "L_CACHE_RULE",
+    "value" : "キャッシュルール"
+  }, {
+    "name" : "I_EXP_SCH",
+    "value" : "コンテンツ?索オプション"
+  }, {
+    "name" : "T_EXP_MC",
+    "value" : "エクスポ?トコンテンツ"
+  }, {
+    "name" : "T_EXP_MC_Q",
+    "value" : "あなたはファイルに?容をエクスポ?トしていきますか？"
+  }, {
+    "name" : "L_CONTROLLER",
+    "value" : "制御"
+  }, {
+    "name" : "L_FIX_COLUMN",
+    "value" : "列を修正"
+  }, {
+    "name" : "L_COL_VIS",
+    "value" : "可視コラム"
+  }, {
+    "name" : "L_COL_SIZE",
+    "value" : "列サイズ"
+  }, {
+    "name" : "L_COLUMN_WIDTH",
+    "value" : "コラム幅"
+  }, {
+    "name" : "L_R_COLUMN_FIT",
+    "value" : "パネルにフィットコラム"
+  }, {
+    "name" : "L_COL_TREE",
+    "value" : "列ヘッダ?ツリ?を作ります"
+  }, {
+    "name" : "L_ML_C6",
+    "value" : "ケース"
+  }, {
+    "name" : "L_ML_C6b",
+    "value" : "ケースを削除"
+  }, {
+    "name" : "L_ML_C6a",
+    "value" : "ケースを追加"
+  }, {
+    "name" : "B_CODE",
+    "value" : "コ???ド"
+  }, {
+    "name" : "L_CODEMAPPING",
+    "value" : "CodeMapping"
+  }, {
+    "name" : "D_CODEMAP",
+    "value" : "コ???ドマッピング"
+  }, {
+    "name" : "L_LOOKUP",
+    "value" : "メトリック?索"
+  }, {
+    "name" : "L_CODE_FIELD",
+    "value" : "コ???ドマッピング"
+  }, {
+    "name" : "T_CODE_MAPPING",
+    "value" : "コードマッピング"
+  }, {
+    "name" : "I_QRY_TOOL",
+    "value" : "クエリツ?ル"
+  }, {
+    "name" : "L_DB_SCHEDULE_QUERYTIMEOUT",
+    "value" : "クエリタイムアウト（スケジューラ）"
+  }, {
+    "name" : "L_DB_QUERYTIMEOUT",
+    "value" : "クエリタイムアウト（秒）"
+  }, {
+    "name" : "L_CUBE",
+    "value" : "CUBE"
+  }, {
+    "name" : "T_CUBE",
+    "value" : "CUBE"
+  }, {
+    "name" : "L_R_ANAL_CUBE_LB",
+    "value" : "CUBE"
+  }, {
+    "name" : "L_MC_DATA_EDT",
+    "value" : "キュ?ブデ?タエディタ"
+  }, {
+    "name" : "B_BUILD",
+    "value" : "キューブを作成"
+  }, {
+    "name" : "L_BUILD_CUBE",
+    "value" : "キュ?ブを作成"
+  }, {
+    "name" : "L_SAVE_CUBE",
+    "value" : "キュ?ブを保存"
+  }, {
+    "name" : "B_B_CUBE",
+    "value" : "自動キュ?ブビルドプロセスを開始するには[?行]をクリックします。"
+  }, {
+    "name" : "T_CUBE_MODEL",
+    "value" : "キュ?ブ?モデル"
+  }, {
+    "name" : "L_BUILD_MODEL",
+    "value" : "モデルウィザ?ド"
+  }, {
+    "name" : "L_SHOW_PIVOT",
+    "value" : "ショ?CubeFolder"
+  }, {
+    "name" : "L_E_CB",
+    "value" : "編集キュ?ブ"
+  }, {
+    "name" : "L_F_GE",
+    "value" : "以上（> =）"
+  }, {
+    "name" : "L_F_GE_NOT",
+    "value" : "ていない以上（<）"
+  }, {
+    "name" : "L_F_GT",
+    "value" : "その後、大（>）"
+  }, {
+    "name" : "L_F_GT_NOT",
+    "value" : "その後大きくありません（<=）"
+  }, {
+    "name" : "L_SCALE_DOWN",
+    "value" : "必要なときにスケ?ルダウン"
+  }, {
+    "name" : "L_CLASS_MOD",
+    "value" : "クラスモジュ?ル"
+  }, {
+    "name" : "L_P_CLUSTER",
+    "value" : "クラスタ寸法"
+  }, {
+    "name" : "L_CLUSTER",
+    "value" : "クラスタ"
+  }, {
+    "name" : "L_CLIPBOARD_COPY",
+    "value" : "クリップボ?ドにコピ?"
+  }, {
+    "name" : "B_CLIPBOARD",
+    "value" : "クリップボ?ドにコピ?"
+  }, {
+    "name" : "L_EMPTY_SEARCH",
+    "value" : "?索キ?ワ?ド"
+  }, {
+    "name" : "L_F_LIKE",
+    "value" : "キ?ワ?ドを含める（LIKE）"
+  }, {
+    "name" : "L_F_LIKE_NOT",
+    "value" : "（LIKE NOT）キ?ワ?ドを含めません"
+  }, {
+    "name" : "B_TITLE",
+    "value" : "タイトル"
+  }, {
+    "name" : "L_TITLE",
+    "value" : "タイトルテキスト"
+  }, {
+    "name" : "L_HIDE_TITLE",
+    "value" : "タイトルを非表示にします"
+  }, {
+    "name" : "L_STYLE_TITLE",
+    "value" : "タイトルスタイル"
+  }, {
+    "name" : "L_T_DIR",
+    "value" : "タイトルの場所"
+  }, {
+    "name" : "L_TITLE_POSITION",
+    "value" : "タイトル位置"
+  }, {
+    "name" : "L_OPT_TBAR",
+    "value" : "タイトルバ?のオプション"
+  }, {
+    "name" : "L_BROWSE_ITEM",
+    "value" : "ブラウズ @"
+  }, {
+    "name" : "T_BROWSER",
+    "value" : "ブラウザ"
+  }, {
+    "name" : "S_NAVI",
+    "value" : "ナビゲ?タ?"
+  }, {
+    "name" : "T_TAB_BROWSER",
+    "value" : "タブブラウザ"
+  }, {
+    "name" : "L_SHOW_TAB_BAR",
+    "value" : "タブボタンを表示"
+  }, {
+    "name" : "L_R_CM_SHOWTAB",
+    "value" : "タブで開きます"
+  }, {
+    "name" : "L_NEW_TABPANEL",
+    "value" : "新しいタブパネル"
+  }, {
+    "name" : "D_TENANT",
+    "value" : "テナント"
+  }, {
+    "name" : "L_ADD_TENANT",
+    "value" : "テナントを追加"
+  }, {
+    "name" : "L_BORDER_COLOR",
+    "value" : "境界線の色"
+  }, {
+    "name" : "M_SUC_DBCON",
+    "value" : "DBの接?成功"
+  }, {
+    "name" : "I_TABLE_REGISTER",
+    "value" : "テ?ブルレジスタ"
+  }, {
+    "name" : "L_REG_TABLE",
+    "value" : "テ?ブルレジスタ"
+  }, {
+    "name" : "L_TABLES",
+    "value" : "表ソ?ス"
+  }, {
+    "name" : "L_TBL_ORD",
+    "value" : "テーブルの順序"
+  }, {
+    "name" : "L_ERR_CUBE_ITEMS",
+    "value" : "不一致またはエラ?項目がキュ?ブに存在します。不一致の情報を更新するキュ?ブを?更し、保存します。"
+  }, {
+    "name" : "L_P_RELOAD",
+    "value" : "ロ?ドするには、[更新]をクリックします。"
+  }, {
+    "name" : "L_NEW_TEXTAREA",
+    "value" : "新規のTextArea"
+  }, {
+    "name" : "L_F_DISP",
+    "value" : "表示フィ?ルド"
+  }, {
+    "name" : "L_AUTO_ROT",
+    "value" : "テキストを回転"
+  }, {
+    "name" : "L_APPLY_TMPL",
+    "value" : "テンプレ?トの適用"
+  }, {
+    "name" : "L_F_TMPL",
+    "value" : "テンプレートを適用"
+  }, {
+    "name" : "L_EXPORT_JASPER",
+    "value" : "JasperReport"
+  }, {
+    "name" : "T_DB_TMPL",
+    "value" : "デ?タベ?ステンプレ?ト"
+  }, {
+    "name" : "M_SEL_MODEL",
+    "value" : "ツ?ルバ?のボタンの選?モデルは、キュ?ブの設計を?行します。"
+  }, {
+    "name" : "B_TREEVIEW",
+    "value" : "木"
+  }, {
+    "name" : "L_TREE_VIEW",
+    "value" : "ツリ?表示"
+  }, {
+    "name" : "L_ENABLE_TREE_VIEW",
+    "value" : "ツリ?ビュ?を有?にします"
+  }, {
+    "name" : "L_TREEM_OPTION",
+    "value" : "ツリーマップオプション"
+  }, {
+    "name" : "L_TM_CL",
+    "value" : "TreeMapクラス"
+  }, {
+    "name" : "L_SCC_REC",
+    "value" : "間隔のある繰り返し"
+  }, {
+    "name" : "L_SCC_DATE",
+    "value" : "時間通りに繰り返し"
+  }, {
+    "name" : "L_PIE_OPTION",
+    "value" : "パイオプション"
+  }, {
+    "name" : "L_IMPORT_FILE",
+    "value" : "インポ?トファイル"
+  }, {
+    "name" : "L_FILEEXT",
+    "value" : "拡張"
+  }, {
+    "name" : "L_SELECT_FILE",
+    "value" : "ファイルを選?..."
+  }, {
+    "name" : "L_FILENAME",
+    "value" : "ファイル名"
+  }, {
+    "name" : "T_EXCEL_LOADER",
+    "value" : "localDataロ?ダ?"
+  }, {
+    "name" : "L_LAYOUT_POPUP",
+    "value" : "現れる"
+  }, {
+    "name" : "L_PANEL_H",
+    "value" : "パネルの高さ"
+  }, {
+    "name" : "L_PANEL_W",
+    "value" : "パネル幅"
+  }, {
+    "name" : "L_INPUT_PASSWORD",
+    "value" : "パスワ?ド"
+  }, {
+    "name" : "T_PASSWORD_CHANGE",
+    "value" : "パスワ?ド"
+  }, {
+    "name" : "L_DB_PWD",
+    "value" : "パスワ?ド"
+  }, {
+    "name" : "L_PWD_LABEL",
+    "value" : "セキュアなパスワ?ド"
+  }, {
+    "name" : "L_PASSWORD",
+    "value" : "パスワ?ドを?更する"
+  }, {
+    "name" : "L_CH_PASSWD",
+    "value" : "パスワ?ドを?更する"
+  }, {
+    "name" : "L_PWD_CONFIRM",
+    "value" : "新しいパスワ?ドを確認"
+  }, {
+    "name" : "M_BLANK_PWD",
+    "value" : "パスワ?ドは空白のままにしないでください"
+  }, {
+    "name" : "L_STACK_PERCENT",
+    "value" : "割合によってスタック"
+  }, {
+    "name" : "L_PAGING",
+    "value" : "ペ?ジング"
+  }, {
+    "name" : "L_PG_DIRECTION",
+    "value" : "ペ?ジ方向"
+  }, {
+    "name" : "L_SHOW_PAGENUMBER",
+    "value" : "表示ペ?ジ番?"
+  }, {
+    "name" : "L_PAGE_STYLE",
+    "value" : "ペ?ジスタイル"
+  }, {
+    "name" : "L_PAGE_OPTIONS",
+    "value" : "ペ?ジのオプション"
+  }, {
+    "name" : "L_PG_SIZE",
+    "value" : "ペ?ジサイズ"
+  }, {
+    "name" : "L_FOOTER",
+    "value" : "フッタ?"
+  }, {
+    "name" : "L_REPEAT_HEADER",
+    "value" : "繰り返しヘッダ"
+  }, {
+    "name" : "L_ROW_P_PAGE",
+    "value" : "ペ?ジあたりの行?"
+  }, {
+    "name" : "L_PG_LOADER",
+    "value" : "ページ読み込み"
+  }, {
+    "name" : "L_USE_PAGING",
+    "value" : "使用ペ?ジネ?ション"
+  }, {
+    "name" : "L_EDIT",
+    "value" : "編集"
+  }, {
+    "name" : "L_ML_C4b",
+    "value" : "編集者"
+  }, {
+    "name" : "L_E_IT",
+    "value" : "編集項目"
+  }, {
+    "name" : "L_EDIT_ITEM",
+    "value" : "編集@"
+  }, {
+    "name" : "L_EDITOR_TYPE",
+    "value" : "エディタの種類"
+  }, {
+    "name" : "M_LOCK_TITLE",
+    "value" : "コンテンツロック"
+  }, {
+    "name" : "S_AVG",
+    "value" : "平均"
+  }, {
+    "name" : "F_AVG",
+    "value" : "平均"
+  }, {
+    "name" : "L_C_FMT_VAL",
+    "value" : "フォ?マット?みの値を使用してください"
+  }, {
+    "name" : "B_WIDTH",
+    "value" : "幅"
+  }, {
+    "name" : "L_FIXED_W",
+    "value" : "幅を修正"
+  }, {
+    "name" : "L_FONT_SELECT",
+    "value" : "フォント選?"
+  }, {
+    "name" : "L_FONT_ST",
+    "value" : "フォント?スタイル"
+  }, {
+    "name" : "L_FONTSIZE",
+    "value" : "フォントサイズ"
+  }, {
+    "name" : "D_FOLDER",
+    "value" : "フォルダ"
+  }, {
+    "name" : "B_FOLDER",
+    "value" : "フォルダ"
+  }, {
+    "name" : "T_MGR_FOLDER",
+    "value" : "フォルダマネ?ジャ"
+  }, {
+    "name" : "L_BB_STEP_2",
+    "value" : "フォルダ構造を作成します。"
+  }, {
+    "name" : "L_CREATE_FOLDER",
+    "value" : "フォルダ?を作る"
+  }, {
+    "name" : "L_REG_FOLDER",
+    "value" : "フォルダを追加"
+  }, {
+    "name" : "L_MGR_FD",
+    "value" : "フォルダを管理します"
+  }, {
+    "name" : "L_FOLDER_ITEMS",
+    "value" : "フォルダのアイテム"
+  }, {
+    "name" : "L_DATE_FORMAT_TGT",
+    "value" : "表示日付形式"
+  }, {
+    "name" : "L_DISP_TITLE",
+    "value" : "表示タイトル"
+  }, {
+    "name" : "B_DISP_NAME",
+    "value" : "表示名"
+  }, {
+    "name" : "S_STDERR",
+    "value" : "標準エラ?"
+  }, {
+    "name" : "S_STDEV",
+    "value" : "標準偏差"
+  }, {
+    "name" : "L_R_RUN_PROP",
+    "value" : "?行プロパティ"
+  }, {
+    "name" : "T_PROMPT_DLG",
+    "value" : "プロンプト"
+  }, {
+    "name" : "T_PROMPT_MSG",
+    "value" : "?更?件の値を入力します"
+  }, {
+    "name" : "L_PROMPT_TYPE",
+    "value" : "プロンプト"
+  }, {
+    "name" : "L_FLOATING",
+    "value" : "フローティング"
+  }, {
+    "name" : "L_PLOT_STYLES",
+    "value" : "プロットスタイル"
+  }, {
+    "name" : "L_ENABLE_PIVOT",
+    "value" : "ピボットを有?にします"
+  }, {
+    "name" : "L_PIVOT",
+    "value" : "設計"
+  }, {
+    "name" : "L_V_PIVOT",
+    "value" : "ピボットモ?ド"
+  }, {
+    "name" : "T_PIVOT_EDITOR",
+    "value" : "レポ?トデザイナ?"
+  }, {
+    "name" : "L_PIVOT_REPORT",
+    "value" : "設計"
+  }, {
+    "name" : "B_REQ",
+    "value" : "必須フィ?ルド"
+  }, {
+    "name" : "T_DB_BLANK",
+    "value" : "フィ?ルドが必要です。"
+  }, {
+    "name" : "L_FILTER",
+    "value" : "フィルタ"
+  }, {
+    "name" : "L_R_OPT_FILTER",
+    "value" : "フィルタオプション"
+  }, {
+    "name" : "T_DYNFILTER_CONFIG",
+    "value" : "フィルタ?構成"
+  }, {
+    "name" : "L_SHOW_FILTER_INFO",
+    "value" : "表示フィルタ情報"
+  }, {
+    "name" : "L_CLEAR_FLT",
+    "value" : "フィルタのクリア"
+  }, {
+    "name" : "L_NEW_FILTER",
+    "value" : "新規フィルタ"
+  }, {
+    "name" : "B_SET_FILTER",
+    "value" : "フィルタの設定"
+  }, {
+    "name" : "L_BORDER_BOTTOM",
+    "value" : "ボ?ダ?ボトム"
+  }, {
+    "name" : "L_HADOOP",
+    "value" : "Hadoopの管理"
+  }, {
+    "name" : "L_HD_BFLOW",
+    "value" : "HadoopのBizFlow"
+  }, {
+    "name" : "B_BOTTOM",
+    "value" : "底の"
+  }, {
+    "name" : "L_RANK_BOTTOM",
+    "value" : "ランクボトム"
+  }, {
+    "name" : "L_C_ITEMS",
+    "value" : "サブアイテム"
+  }, {
+    "name" : "L_TB_HL",
+    "value" : "コンフィグハイライト"
+  }, {
+    "name" : "T_HL_OPT",
+    "value" : "ハイライトオプション"
+  }, {
+    "name" : "L_R_UT_DESC",
+    "value" : "選?にチェック一つまたは複?で、唯一のドリル。"
+  }, {
+    "name" : "L_KOREAN",
+    "value" : "韓?の"
+  }, {
+    "name" : "L_EXPORT_ODF_EXCEL",
+    "value" : "スプレッドシ?トを開き"
+  }, {
+    "name" : "L_EXPORT_ODF_WORD",
+    "value" : "ドキュメントを開きます"
+  }, {
+    "name" : "L_EXPORT_ODF_PPT",
+    "value" : "オ?プンプレゼンテ?ション"
+  }, {
+    "name" : "L_FUNC",
+    "value" : "機能"
+  }, {
+    "name" : "L_SYNTAX",
+    "value" : "構文"
+  }, {
+    "name" : "S_SUM",
+    "value" : "?要"
+  }, {
+    "name" : "L_ITEM",
+    "value" : "項目"
+  }, {
+    "name" : "L_NAVIGATOR",
+    "value" : "ナビゲ?タ?"
+  }, {
+    "name" : "B_DELETE_ITEM",
+    "value" : "アイテムの削除"
+  }, {
+    "name" : "L_CR_TP_SEL",
+    "value" : "アイテムを選?"
+  }, {
+    "name" : "B_CONFIG_ITEM",
+    "value" : "コンフィグアイテム"
+  }, {
+    "name" : "L_SAVE_EXCEL",
+    "value" : "コンテンツを保存"
+  }, {
+    "name" : "L_CREATE_ITEM",
+    "value" : "アイテムの作成"
+  }, {
+    "name" : "L_ADD_NEW",
+    "value" : "新しく追加する"
+  }, {
+    "name" : "L_ITEMNAME",
+    "value" : "項目名"
+  }, {
+    "name" : "L_AU_TITLE",
+    "value" : "義務をセットオブジェクトへのアクセス"
+  }, {
+    "name" : "L_F_NOTIN",
+    "value" : "含みません"
+  }, {
+    "name" : "L_TABLE_DROP",
+    "value" : "中間領域にドラッグフィ?ルドを登?するには。"
+  }, {
+    "name" : "L_C_DEL_ITEM",
+    "value" : "あなたがアイテムを削除しますか？"
+  }, {
+    "name" : "L_SELECT_ITEM",
+    "value" : "??する項目を選?"
+  }, {
+    "name" : "L_DYN_SELECT",
+    "value" : "チェック値"
+  }, {
+    "name" : "M_SEL_ITEM",
+    "value" : "??して項目を選?します。"
+  }, {
+    "name" : "M_DELETED",
+    "value" : "正常に削除されたコンテンツ"
+  }, {
+    "name" : "L_SAVE_CONTENT",
+    "value" : "コンテンツを保存"
+  }, {
+    "name" : "T_META_SAVE",
+    "value" : "アイテムの名前を付けて保存..."
+  }, {
+    "name" : "E_NO_MATCH_FLD",
+    "value" : "リストから項目を一致しません。"
+  }, {
+    "name" : "L_HL_ROW",
+    "value" : "行"
+  }, {
+    "name" : "L_BB_YA",
+    "value" : "Y軸に行デ?タ"
+  }, {
+    "name" : "L_BB_SL",
+    "value" : "RowData??を表示"
+  }, {
+    "name" : "L_P_ROW",
+    "value" : "行寸法"
+  }, {
+    "name" : "L_ROW_SIZE",
+    "value" : "行サイズ"
+  }, {
+    "name" : "L_AREA_ROW",
+    "value" : "行"
+  }, {
+    "name" : "M_NA",
+    "value" : "操作不可。"
+  }, {
+    "name" : "L_M_C_SAVE_DESKTOP",
+    "value" : "あなたが現在開いているデスクトップの情報を保存しますか？"
+  }, {
+    "name" : "L_FILE_APPEND",
+    "value" : "現在のタブに追加"
+  }, {
+    "name" : "L_C_CUR",
+    "value" : "現在、"
+  }, {
+    "name" : "L_P_cls",
+    "value" : "ウィンドウを閉じる"
+  }, {
+    "name" : "L_APPL_TMPL",
+    "value" : "アプリケ?ションテンプレ?ト"
+  }, {
+    "name" : "L_HL_RANGE",
+    "value" : "に適用"
+  }, {
+    "name" : "L_SWA_CFM",
+    "value" : "あなたがログアウトし、別のプロジェクトにログインする?行しますか？"
+  }, {
+    "name" : "B_CONFIRM",
+    "value" : "確認してください"
+  }, {
+    "name" : "B_ACTIVE",
+    "value" : "アクティブ"
+  }, {
+    "name" : "L_A_USR",
+    "value" : "アクティブユ?ザ?"
+  }, {
+    "name" : "L_ACTIVATE",
+    "value" : "アクティブ化"
+  }, {
+    "name" : "L_CFIT_TYPE",
+    "value" : "カーブフィットタイプ"
+  }, {
+    "name" : "L_SC_ACTION",
+    "value" : "スケジュールアクション"
+  }, {
+    "name" : "L_C_DC",
+    "value" : "削除された?容"
+  }, {
+    "name" : "T_TRASHBIN",
+    "value" : "ごみ箱"
+  }, {
+    "name" : "L_C_CD",
+    "value" : "削除されたコンテンツ"
+  }, {
+    "name" : "L_RANGE_FIELD",
+    "value" : "範?フィ?ルド"
+  }, {
+    "name" : "L_META_MIG",
+    "value" : "メタマイグレーション"
+  }, {
+    "name" : "L_C_INLINEV",
+    "value" : "インライン表示"
+  }, {
+    "name" : "L_IMP_TB",
+    "value" : "テーブルをインポート"
+  }, {
+    "name" : "L_TENANT",
+    "value" : "テナント"
+  }, {
+    "name" : "B_DATATYPE",
+    "value" : "データ・タイプ"
+  }, {
+    "name" : "L_SERVER_HOST",
+    "value" : "サーバーホスト"
+  }, {
+    "name" : "L_ML",
+    "value" : "機械学習"
+  }, {
+    "name" : "B_PHY_NAME",
+    "value" : "物理名"
+  }, {
+    "name" : "I_LOGOUT",
+    "value" : "安全なセッションをログアウトするためのログアウトボタン。"
+  }, {
+    "name" : "L_MIG",
+    "value" : "移行"
+  }, {
+    "name" : "L_B_CUBE",
+    "value" : "キュ?ブの?理"
+  }, {
+    "name" : "L_ENDPOINT_URL",
+    "value" : "エンドポイントURL"
+  }, {
+    "name" : "L_SYS_BACKSCH",
+    "value" : "バックグラウンドスケジュール"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_SEQUENCE",
+    "value" : "Sequence"
+  }, {
+    "name" : "L_SUBSCRIBE",
+    "value" : "申し込む"
+  }, {
+    "name" : "L_DEPLOY_SVR",
+    "value" : "サーバーをデプロイする"
+  }, {
+    "name" : "I_START_INTRO",
+    "value" : "はじめに"
+  }, {
+    "name" : "I_COLLAPSE_BTN",
+    "value" : "サイドパネルを折りたたんで展開します。"
+  }, {
+    "name" : "I_MAINMENU",
+    "value" : "メインメニュー（2回クリックすると全画面表示）"
+  }, {
+    "name" : "I_SEARCH_MAIN",
+    "value" : "キーワードで検索してレポートとオブジェクトを見つけます"
+  }, {
+    "name" : "I_NAVIGATOR",
+    "value" : "コンテンツへのナビゲーションパネル"
+  }, {
+    "name" : "I_MAIN_WS",
+    "value" : "メインワークスペース"
+  }, {
+    "name" : "I_APP_AREA",
+    "value" : "アプリケーション領域"
+  }, {
+    "name" : "I_SAVE_CNT",
+    "value" : "コンテンツを保存"
+  }, {
+    "name" : "I_RUN_REPORT",
+    "value" : "レポートを実行してください。"
+  }, {
+    "name" : "I_ADD_VIEW",
+    "value" : "ビューとウィジェットを追加します。"
+  }, {
+    "name" : "I_SHEET_AREA",
+    "value" : "シート領域"
+  }, {
+    "name" : "I_SHEET_TITLE",
+    "value" : "シートタイトル"
+  }, {
+    "name" : "I_SHEET_VIEW",
+    "value" : "シートビュー"
+  }, {
+    "name" : "I_BTN_PIVOTOPTION",
+    "value" : "フィールドと列を変更するためのピボットオプション"
+  }, {
+    "name" : "I_BTN_WIDGET_CONF",
+    "value" : "詳細情報を設定するためのウィジェット設定ボタン。"
+  }, {
+    "name" : "L_AUTO_JOIN",
+    "value" : "自動参加"
+  }, {
+    "name" : "L_JOIN_BEUTIFY",
+    "value" : "自動レイアウトテーブル"
+  }, {
+    "name" : "L_UPLOAD",
+    "value" : "ファイルをアップロードする"
+  }, {
+    "name" : "L_RNK_SVAL",
+    "value" : "値で並べ替え"
+  }, {
+    "name" : "L_SEL_RPT",
+    "value" : "レポートを選択"
+  }, {
+    "name" : "L_SEL_DBD",
+    "value" : "ダッシュボードを選択"
+  }, {
+    "name" : "L_DESIGN",
+    "value" : "デザインモード"
+  }, {
+    "name" : "L_APPL_THEME",
+    "value" : "アプリケーションテーマ"
+  }, {
+    "name" : "M_VALIDATED",
+    "value" : "正常に検証されました。"
+  }, {
+    "name" : "T_ML_LEARN",
+    "value" : "機械学習"
+  }, {
+    "name" : "T_HD_CFG_CL",
+    "value" : "Hadoopの設定"
+  }, {
+    "name" : "T_Resources",
+    "value" : "リソース"
+  }, {
+    "name" : "T_DYN_LFILE",
+    "value" : "fileuploadで絞り込む"
+  }, {
+    "name" : "L_DYN_LFILE",
+    "value" : "ファイルをアップロードして値でフィルタをかける"
+  }, {
+    "name" : "T_REPORT_STYLE",
+    "value" : "レポートスタイル"
+  }, {
+    "name" : "T_BA_1",
+    "value" : "ベイズ解析"
+  }, {
+    "name" : "B_INTRO",
+    "value" : "前書き"
+  }, {
+    "name" : "B_PREV",
+    "value" : "前の"
+  }, {
+    "name" : "B_SKIP",
+    "value" : "スキップ"
+  }, {
+    "name" : "B_OBJ_NAME",
+    "value" : "オブジェクト名"
+  }, {
+    "name" : "B_DATA_ZOOM",
+    "value" : "データズーム"
+  }, {
+    "name" : "B_C_DELETE",
+    "value" : "[OK]をクリックして削除を続けます。"
+  }, {
+    "name" : "B_SELECT_FOLDER",
+    "value" : "続行するにはフォルダを選択してください。"
+  }, {
+    "name" : "B_SELECT_TARGET",
+    "value" : "続行するにはターゲットオブジェクトを選択してください。"
+  }, {
+    "name" : "B_TEMPLATES",
+    "value" : "テンプレート"
+  }, {
+    "name" : "B_CONFIG",
+    "value" : "設定"
+  }, {
+    "name" : "B_VIEWMODE",
+    "value" : "ビューモード"
+  }, {
+    "name" : "B_EDITMODE",
+    "value" : "編集モード"
+  }, {
+    "name" : "B_PARAMTERS",
+    "value" : "パラメーター"
+  }, {
+    "name" : "B_NOT_EXECUTED",
+    "value" : "未実行"
+  }, {
+    "name" : "B_VALIDATE",
+    "value" : "検証"
+  }, {
+    "name" : "L_AUTH",
+    "value" : "認証"
+  }, {
+    "name" : "T_GRD_CFG",
+    "value" : "グリッド構成"
+  }, {
+    "name" : "L_FORMVIEWER",
+    "value" : "フォームビューア"
+  }, {
+    "name" : "L_M_TITLE",
+    "value" : "メジャータイトル"
+  }, {
+    "name" : "L_M_EXT_TITLE",
+    "value" : "追加タイトル"
+  }, {
+    "name" : "L_PAGE_FILTER",
+    "value" : "ページフィルタ"
+  }, {
+    "name" : "L_TENANT_NAME",
+    "value" : "テナント名"
+  }, {
+    "name" : "L_LICENSE_INFO",
+    "value" : "ライセンス情報"
+  }, {
+    "name" : "L_ALLOWED_USERS",
+    "value" : "許可されたユーザー"
+  }, {
+    "name" : "L_REG_DATE",
+    "value" : "登録日"
+  }, {
+    "name" : "L_pf_navitree",
+    "value" : "ピボットフィルター"
+  }, {
+    "name" : "L_pf_fedit",
+    "value" : "ピボットフィルタエディタ"
+  }, {
+    "name" : "L_pf_filter",
+    "value" : "ピボットフィルター"
+  }, {
+    "name" : "L_SAVE_CONTENT_AS",
+    "value" : "コンテンツを名前を付けて保存"
+  }, {
+    "name" : "L_DATA_SOURCE",
+    "value" : "情報源"
+  }, {
+    "name" : "T_DB_GEN",
+    "value" : "DBジェネレータ"
+  }, {
+    "name" : "L_P_export",
+    "value" : "輸出する"
+  }, {
+    "name" : "L_ERR_L_MOD",
+    "value" : "モジュールのロード中にエラーが発生しました。"
+  }, {
+    "name" : "I_DLOC_MGR",
+    "value" : "辞書管理"
+  }, {
+    "name" : "I_META_MIG",
+    "value" : "メタマイグレーション"
+  }, {
+    "name" : "L_REG_DATASET",
+    "value" : "データセットを登録する"
+  }, {
+    "name" : "T_MIG_DISCO",
+    "value" : "Oracle Discovererの移行"
+  }, {
+    "name" : "L_METRIC_ITEMS",
+    "value" : "メトリック項目"
+  }, {
+    "name" : "T_DBD_VAR",
+    "value" : "ダッシュボード変数"
+  }, {
+    "name" : "E_LM_SEL",
+    "value" : "最初にコンボボックスからロケールを選択してください。"
+  }, {
+    "name" : "T_TORSP_RS",
+    "value" : "竜巻クモ結果"
+  }, {
+    "name" : "L_LNK_TP",
+    "value" : "リンクフィールド"
+  }, {
+    "name" : "T_SUBSCR_AUTH",
+    "value" : "購読認証"
+  }, {
+    "name" : "T_NET_PROP",
+    "value" : "ネットワーク特性"
+  }, {
+    "name" : "M_APP_LOADED",
+    "value" : "アプリケーションが正常にロードされました。"
+  }, {
+    "name" : "L_F_COMMENT",
+    "value" : "コメント"
+  }, {
+    "name" : "M_SAVE_PROGRESS",
+    "value" : "保存が進行中です。お待​​ちください。"
+  }, {
+    "name" : "M_DEF_DATE",
+    "value" : "デフォルトの日付"
+  }, {
+    "name" : "L_DB_VAL",
+    "value" : "DB値"
+  }, {
+    "name" : "L_SF_AUTHMETHOD",
+    "value" : "Salesforceの認証方法"
+  }, {
+    "name" : "L_SF_SECTOKEN",
+    "value" : "Salesforceトークン"
+  }, {
+    "name" : "L_TARGET_DB",
+    "value" : "ターゲットデータベース"
+  }, {
+    "name" : "T_JASP_TMPL",
+    "value" : "ジャスパーテンプレート"
+  }, {
+    "name" : "L_HIERARCHY",
+    "value" : "階層"
+  }, {
+    "name" : "T_FM_SEL",
+    "value" : "式の選択"
+  }, {
+    "name" : "T_FM_SEL_CONFIG",
+    "value" : "フォーミュラ構成"
+  }, {
+    "name" : "L_ADD_FILTER",
+    "value" : "フィルターを追加"
+  }, {
+    "name" : "T_INT_LEARN",
+    "value" : "インタラクティブ学習"
+  }, {
+    "name" : "L_VIEW_PYTHON",
+    "value" : "Python"
+  }, {
+    "name" : "L_R_OPTIONS",
+    "value" : "Rオプション"
+  }, {
+    "name" : "L_PY_EDIT",
+    "value" : "Python編集"
+  }, {
+    "name" : "T_COST_EFF",
+    "value" : "費用対効果"
+  }, {
+    "name" : "L_GS_ENABLED",
+    "value" : "Gsが有効"
+  }, {
+    "name" : "L_ALT_COLOR",
+    "value" : "代替色"
+  }, {
+    "name" : "L_REG_LINK",
+    "value" : "リンクを登録"
+  }, {
+    "name" : "L_TB_FORM_V",
+    "value" : "フォームビューア"
+  }, {
+    "name" : "L_EMAIL_BURSTING",
+    "value" : "メールバースト"
+  }, {
+    "name" : "L_BAYES",
+    "value" : "Machine Learning"
+  }, {
+    "name" : "L_BAYES_RPT",
+    "value" : "ML Report"
+  }, {
+    "name" : "L_DISCO",
+    "value" : "Discoverer Migration"
+  }, {
+    "name" : "L_SEL_DB",
+    "value" : "Select Datasource"
+  }, {
+    "name" : "L_BOBJ",
+    "value" : "Business Object"
+  }, {
+    "name" : "L_SETTINGS",
+    "value" : "Settings"
+  }, {
+    "name" : "D_BOBJECT",
+    "value" : "Business Object"
+  }, {
+    "name" : "L_V_SYNC",
+    "value" : "Sync with Sheet"
+  }, {
+    "name" : "L_NEW_STORYVIEW",
+    "value" : "Add StoryIt"
+  }, {
+    "name" : "L_XLS_BUTTON",
+    "value" : "Show Excel button"
+  }, {
+    "name" : "L_XLS_STYLE",
+    "value" : "Excel Button Style"
+  }, {
+    "name" : "L_VIEW_ANAL",
+    "value" : "View Analysis"
+  }, {
+    "name" : "L_D_EXCEL",
+    "value" : "Download"
+  }, {
+    "name" : "L_SYS_CONFIG",
+    "value" : "System Config"
+  }, {
+    "name" : "L_ASSIST_ROBO",
+    "value" : "Assist Robo"
+  }, {
+    "name" : "D_NLP",
+    "value" : "Autobot Corpus"
+  }, {
+    "name" : "L_CACHE_REFRESH",
+    "value" : "Cache Build after Clear"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_YAXIS_LOG",
+    "value" : "Logarithm Scale"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_YAXIS_LOGBASE",
+    "value" : "Log Scale Base"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "B_DISABLED",
+    "value" : "Disabled"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_LINE_TYPE",
+    "value" : "Line Type"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_LINE_WIDTH",
+    "value" : "Line Width"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "T_META_EXP",
+    "value" : "Meta Export"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_META_EXP_OPT",
+    "value" : "Meta Export Option"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "T_ANAL_WIZARD",
+    "value" : "Analyis Stat Wizard"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_ASTEP_1",
+    "value" : "Statistics Option Step 1"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_ASTEP_2",
+    "value" : "Statistics Option Step 2"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "B_PRIV_FLD",
+    "value" : "Private Folders"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "B_PUB_FLD",
+    "value" : "My Team Folders"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_BASE_CLASS",
+    "value" : "Base Class"
+  }, {
+    "group" : "locale_ja_JP_0001",
+    "name" : "L_LOGIC_TYPE",
+    "value" : "Select Logic Type"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VAL_SEL",
+    "value" : "Value Selection"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_CASE_INS",
+    "value" : "Case Insensitive"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_POP_DLG",
+    "value" : "Popup Window Selector"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VMODE",
+    "value" : "Value Mode"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_RNG_VAL",
+    "value" : "Range Values"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_RNG_TXT",
+    "value" : "Range Display Text"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_NEC",
+    "value" : "Required Field"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_SEL_ALL",
+    "value" : "Show Select All"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_SEL_TXT",
+    "value" : "Select All Text"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_HIE_FLT",
+    "value" : "Hierarchy Filters"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_FMT_VAL",
+    "value" : "Value Format String"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_U_PROMPT",
+    "value" : "Use as Prompt"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_TAB_PNL",
+    "value" : "Tab Panel to Control"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_LOOKUP",
+    "value" : "Code Mapping Field"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_DEF_VAL",
+    "value" : "Default Values"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_START_ROW",
+    "value" : "Start Row and First Column"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_MERGE_LEFT",
+    "value" : "Title Merge on Left"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_AUTO_WIDTH",
+    "value" : "Auto Width"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_COLSPAN",
+    "value" : "Column Spans to"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_CHECK_LAYOUT",
+    "value" : "Check button Layout"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_DT_SEL_TYP",
+    "value" : "Date Selection Type"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_YEAR_FR",
+    "value" : "Limits Year From"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_YEAR_TO",
+    "value" : "Limits Year To"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_SHOW_DT_SEL",
+    "value" : "Show Date Range Combo"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_DT_START",
+    "value" : "Start Date"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_DT_END",
+    "value" : "End Date"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_INV_JS",
+    "value" : "External JS Validator"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_SHOW_WHEN",
+    "value" : "Hide Condition"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_SHOW_WHEN_VALUES",
+    "value" : "Show Values On"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VS_EN",
+    "value" : "Show ValueSet Group"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VS_TITLE",
+    "value" : "ValueSet Title"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VS_FORCE",
+    "value" : "Select Group OnLoad"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_FLT_VS_EXP",
+    "value" : "Collapse/Expand Filters"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_BTN_VALUESET",
+    "value" : "Value Set Group"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_EDIT_META",
+    "value" : "Edit MetaContent"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "L_BORDER_INNER",
+    "value" : "Inner Borders"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "L_BORDER_OUTER",
+    "value" : "Outer Borders"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "L_BORDER_LEFT",
+    "value" : "Border Left"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "L_BORDER_TOP",
+    "value" : "Border Top"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "B_SET_STYLE",
+    "value" : "Set Style"
+  }, {
+    "group" : "locale_ja_JP_0003",
+    "name" : "L_FETCH_MODE",
+    "value" : "Fetch Mode"
+  }, {
+    "group" : "locale_ja_JP_0002",
+    "name" : "L_RENDER_BY_MEA",
+    "value" : "Render by Measures"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "L_FETCH_APPPAGE",
+    "value" : "Paged Fetch"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "L_FETCH_DBPAGE",
+    "value" : "Database Page"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "L_P_mapping",
+    "value" : "Parameter Mapping"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "T_HIERARCHY",
+    "value" : "Hierarchy"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "B_FORMULA",
+    "value" : "Formula"
+  }, {
+    "group" : "locale_ja_JP_0004",
+    "name" : "L_RUN_RPT_FIRST",
+    "value" : "Run Report first to download file!"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "B_MM",
+    "value" : "Month"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_M_GROUP",
+    "value" : "Measure Group Combobox"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_FLT_PROPAGATION",
+    "value" : "Propagate Iniitialize"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_RENAME_TOOL",
+    "value" : "Rename Tool"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_SCREEN_CAPTURE",
+    "value" : "Screen Capture"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_F_SQL_EXISTS",
+    "value" : "SQL Exists operator (EXISTS)"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_PARENT_CHILD_NODES",
+    "value" : "Parent Child Hierarchy"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_PARENT_METRIC",
+    "value" : "Parent Dimension"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_PRIOR_START_WITH",
+    "value" : "Prior Start With"
+  }, {
+    "group" : "locale_ja_JP_0005",
+    "name" : "L_DISPLAY_OPTION",
+    "value" : "Display Option"
+  }, {
+    "group" : "locale_ja_JP_0006",
+    "name" : "L_REG_TEMPLATE",
+    "value" : "Register as Templates"
+  }, {
+    "group" : "locale_ja_JP_0006",
+    "name" : "L_C_REGTMPL",
+    "value" : "Do you want to register this report as Template?"
+  }, {
+    "group" : "locale_ja_JP_0006",
+    "name" : "L_T_TMPL_SEL",
+    "value" : "Template Selection"
+  }, {
+    "group" : "locale_ja_JP_0006",
+    "name" : "L_AUTO_REFRESH",
+    "value" : "Auto Refresh"
+  }, {
+    "group" : "locale_ja_JP_0006",
+    "name" : "L_REFRESH_CYCLE",
+    "value" : "Refresh Cycle(Sec)"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_SQL_REPORT",
+    "value" : "SQL Report"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "D_SQLREPORT",
+    "value" : "SQL Report"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_CON_STR",
+    "value" : "Connection Param"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "T_BURST_CONFIG",
+    "value" : "Burst Options"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_TB_PIVOT",
+    "value" : "Pivot Button"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_BURST_EMAIL",
+    "value" : "Email Field"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_SUB_QUERY",
+    "value" : "Sub SQL Query"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_SHOW_DETAIL",
+    "value" : "Show Detail"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "B_DETAIL",
+    "value" : "Detail"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_FLT_COND",
+    "value" : "Show only.."
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_KEYWORD",
+    "value" : "Keyword"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_QUICK_SELECT",
+    "value" : "----- Quick Select -----"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_ANAL_ITEMS",
+    "value" : "Analysis Items"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "B_ALL",
+    "value" : "All"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_FLT_DATE_PERIOD",
+    "value" : "Date Period"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_MINIMIZE",
+    "value" : "Minimize"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "L_MAXIMIZE",
+    "value" : "Maximize"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "B_NO_PIVOT",
+    "value" : "Need Pivot Fields"
+  }, {
+    "group" : "locale_ja_JP_0007",
+    "name" : "B_PIVOT_CONFIG",
+    "value" : "Click to config Pivot!"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_CLEAR_FORMULA",
+    "value" : "Clear Formula"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "B_MORE",
+    "value" : "More"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "F_STDEV",
+    "value" : "Standard Deviation"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "F_STDEVP",
+    "value" : "Standard Deviation P"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "F_PERCENTILE",
+    "value" : "Percentile"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "F_PERCENTILE_EXE",
+    "value" : "Percentile Excel"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_FORMULA_GROUP",
+    "value" : "Formula Group"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_EXPRESSION",
+    "value" : "Expression"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_USE_COL_FORMAT",
+    "value" : "Use Column Format"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_DISP_TEMPLATE",
+    "value" : "Display Template"
+  }, {
+    "group" : "locale_ja_JP_0009",
+    "name" : "L_C_EXCEL_CSV",
+    "value" : "Data count exceeds for Excel output. Would you download as CSV file?"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_SELECT_FIELD",
+    "value" : "Check select field to continue!"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_AU_APPLY_APPEND",
+    "value" : "Append Only"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_READ",
+    "value" : "Read"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_WRITE",
+    "value" : "Writable"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "E_PERMISSION",
+    "value" : "Error on permission of the item."
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_ADVANCED",
+    "value" : "Advanced Options"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "D_DATASET",
+    "value" : "DataSet"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_TABLE_NAME",
+    "value" : "Table name"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_FIELD_NAME",
+    "value" : "Field name"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_REFRESH",
+    "value" : "Refresh"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "B_ITEMNAME",
+    "value" : "Item name"
+  }, {
+    "group" : "locale_ja_JP_0008",
+    "name" : "L_C_REMSQL",
+    "value" : "Remove this sql can cause sheets that reconfiguration. Click confirm to continue."
+  }, {
+    "group" : "locale_ja_JP_0008",
+    "name" : "B_EDIT",
+    "value" : "Edit"
+  }, {
+    "group" : "locale_ja_JP_0008",
+    "name" : "L_C_SQL_NON",
+    "value" : "Need at least one sql and could not delete this one."
+  }, {
+    "group" : "locale_ja_JP_0008",
+    "name" : "L_C_SWAPSQL",
+    "value" : "Changing SQL need to reconfigure your pivot items. Click confirm to continue."
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "T_SEL_DB",
+    "value" : "Select Database Connector"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_REVOKE_READ",
+    "value" : "Revoke Read"
+  }, {
+    "group" : "locale_ja_JP_0010",
+    "name" : "L_REVOKE_WRITE",
+    "value" : "Remoke Write"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_TODAY",
+    "value" : "Today"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_1D",
+    "value" : "Last 1 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_2D",
+    "value" : "Last 2 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_3D",
+    "value" : "Last 3 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_4D",
+    "value" : "Last 4 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_5D",
+    "value" : "Last 5 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_6D",
+    "value" : "Last 6 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_7D",
+    "value" : "Last 7 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_8D",
+    "value" : "Last 8 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_10D",
+    "value" : "Last 10 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_FROM_MON",
+    "value" : "From Monday"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_15D",
+    "value" : "Last 15 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_30D",
+    "value" : "Last 30 days"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_FROM_1ST_MON",
+    "value" : "From 1st month"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_1M",
+    "value" : "Last 1 month"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_2M",
+    "value" : "Last 2 month"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_6M",
+    "value" : "Last 6 month"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_1Y",
+    "value" : "Last 1 year"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_2Y",
+    "value" : "Last 2 year"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_3Y",
+    "value" : "Last 3 year"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_4Y",
+    "value" : "Last 4 year"
+  }, {
+    "group" : "locale_ja_JP_0011",
+    "name" : "L_LAST_5Y",
+    "value" : "Last 5 year"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_RECT",
+    "value" : "Rectangle selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_POLY",
+    "value" : "Polygon selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_HOR",
+    "value" : "Horizontal selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_VER",
+    "value" : "Vertical selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_KEEP",
+    "value" : "Keep previous selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_SEL_CLEAR",
+    "value" : "Clear selection"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_HOME_APP_TITLE",
+    "value" : "<h1>amplix Business Analytics for your business.</h1>"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_HOME_APP_DESC",
+    "value" : "Create scientific reports using amplixbi.com.<br/>amplix data science tool helps to make statistical analysis with easy guided user interfaces."
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_META_UPGRADE",
+    "value" : "Meta Upgrade"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "T_MIG_META_UPGRADE",
+    "value" : "Meta Version Upgrade"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REL_SCHEDULE",
+    "value" : "Related Schedules"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JOB_HISTORY",
+    "value" : "Job History"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SCH_NAME",
+    "value" : "Schedule Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_UPD_DATE",
+    "value" : "Updated Date"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOAD_LAST_SCH",
+    "value" : "Load Schedule on Init"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_START_DATE",
+    "value" : "Start At"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_REGISTER",
+    "value" : "Register"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "T_SHARE_SETTINGS",
+    "value" : "Share Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMBED_LINK",
+    "value" : "Embeddable Link"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LINK_TO_SHARE",
+    "value" : "Link to Share"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_SHARE_PAGE",
+    "value" : "<span>Use above link url to embed on html pages.</span>"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SHARE_PUBLIC",
+    "value" : "Share with Public Link"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INPUT_EMAIL",
+    "value" : "Enter email or email addresses..."
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMAIL_MSG",
+    "value" : "Email Messages"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMPTY_MSG",
+    "value" : "Messages..."
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_EMAIL_DESC",
+    "value" : "<span>This sends email with public link of this report who don't have access to system</span>"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOGIN",
+    "value" : "Login"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NEED_LOGIN",
+    "value" : "Need Login"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PUBLIC_LINK_URL",
+    "value" : "Public Link URL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_GENERATE",
+    "value" : "Generate"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SHARE_HISTORY",
+    "value" : "<span><b>Shared History</b></span>"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_IS_PUBLIC",
+    "value" : "Public"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_VISIT_COUNT",
+    "value" : "Visit Count"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LAST_VIEWED",
+    "value" : "Last Viewed"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MANUAL",
+    "value" : "Document Management"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MANUAL_MANAGER",
+    "value" : "Manual Documentation"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MANUAL_WRITER",
+    "value" : "Manual Writer"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MANUAL_VIEWER",
+    "value" : "Manual Viewer"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_Z_A",
+    "value" : "Area zooming"
+  }, {
+    "group" : "locale_ja_JP_0012",
+    "name" : "L_CHART_Z_B",
+    "value" : "Restore area zooming"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "T_MGR_MANUAL",
+    "value" : "Manual Manager"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CREATE_SHARE_URL",
+    "value" : "Confirm to create shared URL?"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "M_CONFIRM_DELETE",
+    "value" : "Click Yes to confirm to delete the item"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_DISABLE",
+    "value" : "Confirm to disable?"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_IMP",
+    "value" : "Are you sure to import meta content? Content will be over written if exists."
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_TB_BATCH",
+    "value" : "Batch update schema for all tables in the folder. Would you continue?"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_DS_CHANGE",
+    "value" : "already have datasource defined. Select another data source can cause report not running. Would you continue?"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_DROP_FILE",
+    "value" : "Would you move content to dropped folder?"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM_OVERWRITE",
+    "value" : "already exist on the server. Would you overwrite existing item with this copy?"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "M_CONFIRM",
+    "value" : "Would you continue? Click Yes to continue."
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CONFIG_FORMULA",
+    "value" : "Config Formula"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_NEW",
+    "value" : "New Item"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MOVE_UP",
+    "value" : "Move Up"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MOVE_DOWN",
+    "value" : "Move Down"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SEARCH_ITEM",
+    "value" : "Search Item"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_UP",
+    "value" : "Up"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_DOWN",
+    "value" : "Down"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DB_POOL",
+    "value" : "Data Connection"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GROUP_INDEX",
+    "value" : "Group Index"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_INDEX",
+    "value" : "Index"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_Y2_AXIS",
+    "value" : "Y2 Axis"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_ROW",
+    "value" : "Add Row"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_FORMULA",
+    "value" : "Add Formula"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXPORT_TYPE",
+    "value" : "Export As"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ERASE_GROUP",
+    "value" : "Erase Group"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_UNIQUE_VALUE",
+    "value" : "Unique Value"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COLUMN_INDEX",
+    "value" : "Column Index"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_IS_MEASURE",
+    "value" : "Is Measure"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_OPTIONS",
+    "value" : "Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TAB_SELECTOR",
+    "value" : "Tab Selector"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PROMPT",
+    "value" : "Prompt"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_SELECT",
+    "value" : "Select"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_KEY",
+    "value" : "Key"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ROW_CNT",
+    "value" : "Rows"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_CUR_SEL",
+    "value" : "Add Current Selection"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SEL_ALL",
+    "value" : "Select All"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_JAVA_CLASS",
+    "value" : "Java ActionModule"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_IMP_TABLES",
+    "value" : "Import Tables"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INLINE_VIEW",
+    "value" : "Inline View"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CURRENT",
+    "value" : "Current"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOCATION",
+    "value" : "Location"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GEO_ADDRESS",
+    "value" : "Address"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_LAT",
+    "value" : "Latitude"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_LNG",
+    "value" : "Longitude"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_UPD_GEOCODE",
+    "value" : "Update GeoCode"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RUN_SQL",
+    "value" : "Run SQL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_EXISTS",
+    "value" : "Exists"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOG_RESULT",
+    "value" : "Log Result"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CHANGE_REV",
+    "value" : "Change Revision"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TEST_EMAIL",
+    "value" : "Test Email"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SSO_DESIGNER",
+    "value" : "SSO Designer"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SET",
+    "value" : "Set"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CACHE_INFO",
+    "value" : "Cache Info"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CONFIG_VAR",
+    "value" : "Config Variables"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SHORTCUT",
+    "value" : "Shortcut"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GO_TOP",
+    "value" : "Go Top"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_BATCH_UPD_SCH",
+    "value" : "Batch Update Schema"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXTRACT_META",
+    "value" : "Extract Meta"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ALIAS_TO_DESC",
+    "value" : "Alias to Description"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ALIAS_TO_NAME",
+    "value" : "Alias to Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_USER",
+    "value" : "User"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_ROLE",
+    "value" : "Role"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_TENANT",
+    "value" : "Tenant"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GROUP_ID",
+    "value" : "Group ID"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SERVER_TYPE",
+    "value" : "Server Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMAIL_FROM_ADDR",
+    "value" : "From Address"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ENCRYPTION",
+    "value" : "Encryption"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AUTHEN_METHOD",
+    "value" : "Authentication Method"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SERVER_ADDRESS",
+    "value" : "Server Address"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CREDENTIALS",
+    "value" : "Credentials"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REPORT_HEALTH_CHECK",
+    "value" : "Report Health Check"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SYS_ERROR",
+    "value" : "System Error"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOG_LEVEL",
+    "value" : "Log Level"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SERVER_FULL_RUL",
+    "value" : "Server Full URL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SCHEDULE_SERVICE",
+    "value" : "Scheduler Service"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXCEL_OUTPUT_TYPE",
+    "value" : "Excel Output Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STORE_METAFILE",
+    "value" : "Store MetaFile"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILE_NAMERULE",
+    "value" : "File Name Rule"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MODULE_TYPE",
+    "value" : "Module Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PYTHON_EXEC",
+    "value" : "Python Executable"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JUPYTER_URL",
+    "value" : "Jupyter URL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_CREDENTIALS",
+    "value" : "Credentials"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SNOOZE_MASS_REQ",
+    "value" : "Snooze Mass Requests"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SNOOZE_TIME_MIN",
+    "value" : "Snooze time (min)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SERVER_REQ_MAX_PROTECT",
+    "value" : "Server Request Max Protection"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_WRONG_PWD_COUNTS",
+    "value" : "Wrong Password Counts"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PWD_FAIL_ACTION",
+    "value" : "Password Fail Action"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PWD_RULE",
+    "value" : "Password Rule"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAX_FILE_UPLOAD_MB",
+    "value" : "Max File Upload(MB)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_BULK_MAX_FIILE_UPLOAD_MB",
+    "value" : "Bulk Max File Upload(MB)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TENANT_POST_CALL_MODULE",
+    "value" : "Tenant Post Call Module"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_H2_URL_FOR_MASH",
+    "value" : "H2 URL for Mashing"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NLP_SVR_HOST",
+    "value" : "NLP Server Host"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NLP_SVR_PORT",
+    "value" : "NLP Server Port"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NLP_AGNTS",
+    "value" : "NLP Agent Thread Count"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_BOT_NICK",
+    "value" : "Bot Nickname"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_APPL_TITLE",
+    "value" : "Application Title"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_APPL_TITLE_HTML",
+    "value" : "Application Title(HTML)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COLLAPSE_MAIN_MENU",
+    "value" : "Collapase Main Menu"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NAV_TAB",
+    "value" : "Navigation Tab"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAX_TAB_COUNT",
+    "value" : "Max Tab Counts"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_HOME_TAB_TITLE",
+    "value" : "Home Tab Title"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_HOME_TAB_MSG",
+    "value" : "Home Tab Message"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOADING_MSG",
+    "value" : "Loading Message"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GMAP_API",
+    "value" : "Google Map API Key"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NVMAP_API",
+    "value" : "Nave Map API Key"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DEFAULT_OPTIONS",
+    "value" : "Default Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MEASURE_NAMING",
+    "value" : "Measure Naming"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ECHART_THEM",
+    "value" : "Echart Theme"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REPORT_SCRSHOT",
+    "value" : "Report ScreenShot"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GEO_MAP_CENTER",
+    "value" : "Geo Map Center"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ARCGIS_REST_API",
+    "value" : "ArcGIS Rest API"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SSO",
+    "value" : "Single Sign On"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ALLOW_INSERT",
+    "value" : "Allow Insert"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MASK_TYPE",
+    "value" : "Mask Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_USE_GEOCODE",
+    "value" : "Use GeoCode"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_URL_OF_SHARE_OBJ",
+    "value" : "URL of Shared Objects"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_DATE",
+    "value" : "Date"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COMP_ID",
+    "value" : "Component ID"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_STYLE",
+    "value" : "Style"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILTER_ITEMS",
+    "value" : "Filter Items"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_VIEW_OPTIONS",
+    "value" : "View Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILTER_LAYOUT_OPTIONS",
+    "value" : "Filter Layout Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXCEL_DOWN_OPTIONS",
+    "value" : "Excel Download Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_APPLY_TO_ALL",
+    "value" : "Apply to All"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_VALUE_SET",
+    "value" : "Value Set"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REPORT_PATH",
+    "value" : "Report Path"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_TEMPLATE_NAME",
+    "value" : "Template Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_START_DATE",
+    "value" : "Start Date"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JOB_NAME",
+    "value" : "Job Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DAY_OF_WEEK",
+    "value" : "Day of Week"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DAY_OF_MONTH",
+    "value" : "Day of Month"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PREEXE_STMT",
+    "value" : "Pre Execution Statement"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_POST_EXEC_STMT",
+    "value" : "Post Execution Statement"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ANAL_ENV",
+    "value" : "Analysis Environment"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SCH_SVR_STAT",
+    "value" : "Schedule Server Status"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_NICKNAME",
+    "value" : "Nick Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_OBJNAME",
+    "value" : "Object Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PICK_TIME",
+    "value" : "Pick Time"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_END_TIME",
+    "value" : "End Time"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_HEART_BEAT",
+    "value" : "Heart Beat"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CRT_DATE",
+    "value" : "Created Date"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MOD_DATE",
+    "value" : "Modified Date"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PROGRAMS",
+    "value" : "Programs"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REG_SCHEDULE",
+    "value" : "Register Schedule"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JOB_TYPE",
+    "value" : "Job Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_NEW_PROGRAM",
+    "value" : "Add New Program"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOAD_FILE",
+    "value" : "Load File"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA",
+    "value" : "Data"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_KEEP_MODI_DATES",
+    "value" : "Keep Modified Dates"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_KEEP_OWNER_INFO",
+    "value" : "Keep Owner Info"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_IMP_SECURITY",
+    "value" : "Import Security"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CLEAR_HIST",
+    "value" : "Clear History"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_IMPORT_SELECTED",
+    "value" : "Import Selected"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AUTO_REF_SEC",
+    "value" : "Auto Refresh (sec)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_CONDITIONS",
+    "value" : "Conditions"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ELLAPSED_THEN_SEC",
+    "value" : "Ellapsed More than (sec)"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_BUF_SIZE",
+    "value" : "Buffer Size"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_3D_OPTIONS",
+    "value" : "3D Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_VISIBLE",
+    "value" : "Visible"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AXIS_SETTINGS",
+    "value" : "Axis Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_YAXIS_SETTINGS",
+    "value" : "Y Axis Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SEC_YAXIS_SETTINGS",
+    "value" : "Second Y Axis Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RIGHT_YAXIS_TITLE",
+    "value" : "Axis Title"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXTRA_OPTIONS",
+    "value" : "Extra Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STOCK_OPTIONS",
+    "value" : "Stock Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TIME_FIELD",
+    "value" : "Time Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_KPI_INDI",
+    "value" : "KPI Indicator Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INDICATOR_WIZARD",
+    "value" : "Indicator Wizards"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAP_OPTIONS",
+    "value" : "Map Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAP_DRAW_OPTIONS",
+    "value" : "Map Draw Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ARCGIS_LAYERS",
+    "value" : "Arc GIS Layers"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_TEMPLATE",
+    "value" : "Template"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FOLDER_AND_TABLES",
+    "value" : "Folders and Tables"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FIELDS",
+    "value" : "Fields"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_RELATIONS",
+    "value" : "Relations"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MULTI_RENAME",
+    "value" : "Multi Rename"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REMOVE_UNDERLINE",
+    "value" : "Remove Underline"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RENAME_MASK",
+    "value" : "Rename Mask"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PHYSICAL_NAME",
+    "value" : "Physical Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NEW_NAME",
+    "value" : "New Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MEASURE_NAME",
+    "value" : "Measure Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FACT_NAME",
+    "value" : "Fact Dimension"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MASK_TEXT",
+    "value" : "Mask Text"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MEASURES",
+    "value" : "Measures"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GEOCODE",
+    "value" : "GeoCode"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INPUT_FORMAT",
+    "value" : "Input Format"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_YAXIS_SETTING",
+    "value" : "Y Axis Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MINIMUM",
+    "value" : "Minimum"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAXIMUM",
+    "value" : "Maximum"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA_TYPE",
+    "value" : "Data Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_VALUE_FIELD",
+    "value" : "Value Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FIELD_SELECTIONS",
+    "value" : "Field Selections"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_XAXIS_FIELD",
+    "value" : "X Axis Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LINE_COLOR",
+    "value" : "Line Color"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILL_COLOR",
+    "value" : "Fill Color"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TARGET_OPTIONS",
+    "value" : "Target Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TARGET_ITEM",
+    "value" : "Target Item"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_USE_SUM_ON_FOLDER",
+    "value" : "Use Sum on Folder"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXPAND_ALL",
+    "value" : "Expand All"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_OTHER_VALUES",
+    "value" : "Other Values"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_CATEGORY",
+    "value" : "Category"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PAGE_FILTERING",
+    "value" : "Page Filtering"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AVAILABLE_FIELDS",
+    "value" : "Available Fields"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PAGED_FILTER_FIELDS",
+    "value" : "Paged Filter Fields"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA_STYLE",
+    "value" : "Data Style"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_HEAD_STYLE",
+    "value" : "Header Style"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FORMAT_STRING",
+    "value" : "Format String"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CSS_CLASS",
+    "value" : "CSS Class"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TEMPLATE",
+    "value" : "Template"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COLOR_SETTING",
+    "value" : "Color Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAPPING_TYPE",
+    "value" : "Mapping Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STATIC_DATA_VALUES",
+    "value" : "Static Data Values"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_USE_COLORSET",
+    "value" : "Use ColorSet"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LABEL_VALUE",
+    "value" : "Label Value"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SQL_DATA_VALUES",
+    "value" : "SQL Data Values"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATASOURCE",
+    "value" : "Data Source"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COLORSET",
+    "value" : "Color Set"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_TABLE",
+    "value" : "Table"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SORT_FIELD",
+    "value" : "Sort Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA_VIEW",
+    "value" : "Data View"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RANGE_FILTER1",
+    "value" : "Range Filter 1"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RANGE_FILTER2",
+    "value" : "Range Filter 2"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RANGE_FILTER3",
+    "value" : "Range Filter 3"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILTER_FIELD",
+    "value" : "Filter Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FILTER_VALUE",
+    "value" : "Filter Value"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GENERAL",
+    "value" : "General"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMAIL_SETUP",
+    "value" : "Email Setup"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EMAIL_NOTI_RCP",
+    "value" : "Email Notification Recipients"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_META_DATA",
+    "value" : "Meta Data"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PYTHON_INT",
+    "value" : "Python Integration"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SECURITY",
+    "value" : "Security"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MASS_REQ_PROTECT",
+    "value" : "Mass Request Protection"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA_MASHING",
+    "value" : "Data Mashing"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LICENSE",
+    "value" : "License Management"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ASSIST_BOT",
+    "value" : "Assistant Bot Service"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_UI_CONFIG",
+    "value" : "User Interface Config"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_API_KEYS",
+    "value" : "API Keys"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SHORT_NAME",
+    "value" : "Short Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AUTHEN_CLASS",
+    "value" : "Authentication Class"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_AUTHOR_CLASS",
+    "value" : "Authorization Class"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GENERAL_OPTIONS",
+    "value" : "General Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GRID_STRIPES",
+    "value" : "Grid Stripes"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_OPACITY",
+    "value" : "Opacity"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_STYLE",
+    "value" : "Add Style"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_THEME",
+    "value" : "Add Theme"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_SET",
+    "value" : "Set"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CHART_COLOR_ORG",
+    "value" : "Chart Color Organizer"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CHART_COLOR",
+    "value" : "Chart ColorSet"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COLOR_SETS",
+    "value" : "Color Sets"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INHERIT_STYLE_FROM",
+    "value" : "Inherit Style From"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_THEMES",
+    "value" : "Themes"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NEW_ACTION",
+    "value" : "New Action"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NEW_PARAM",
+    "value" : "New Parameter"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_EVENT",
+    "value" : "Event"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TABLE_LIST",
+    "value" : "Table List"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REGISTERED_TABLE",
+    "value" : "Registered Table"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SIMPLE_REL_VIEW",
+    "value" : "Simple Relation View"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FIX_KEY",
+    "value" : "Fix Key"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_RELATIONS",
+    "value" : "Relations"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_I_FROM",
+    "value" : "From"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_I_TO",
+    "value" : "To"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JOIN_REL_EDITOR",
+    "value" : "Join Relation Editor"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SOURCE_FIELD",
+    "value" : "Source Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TARGET_FIELD",
+    "value" : "Target Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SRC_TO_TGT_IS",
+    "value" : "Source to Target is"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REMOVE_RELATION",
+    "value" : "Remove Relation"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JOIN_REL_CUSTOM_FIELD",
+    "value" : "Join Relation Custom Field"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TABLE_ORDER",
+    "value" : "Table Order"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INC_DEP",
+    "value" : "Include Dependancies"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INC_SEC",
+    "value" : "Include Security"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INC_OWNER_INFO",
+    "value" : "Include Owner Info"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SHARE",
+    "value" : "Share"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LIST_OF_ITEMS",
+    "value" : "List of Items"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FOLDER_INFO",
+    "value" : "Folder Info"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_REVISION",
+    "value" : "Revision"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CUR_REVISION",
+    "value" : "Current Revision"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REVISION_INFO",
+    "value" : "Revision Info"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_REVISION_MGR",
+    "value" : "Revision Manager"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_LOCATION",
+    "value" : "Location"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_CURRENT",
+    "value" : "Current"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TARGET_SHEET",
+    "value" : "Target Sheet"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_OUTPUT_TYPE",
+    "value" : "Output Type"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SYNC_USER",
+    "value" : "Sync User"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SSO_MODULE",
+    "value" : "SSO Module"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DUTY",
+    "value" : "Roles"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FEASURES",
+    "value" : "Features"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOAD_AUTH",
+    "value" : "Refresh Roles"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DYN_MODULE",
+    "value" : "Dynamic Module"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_GROUP",
+    "value" : "Groups"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_PARAMETERS",
+    "value" : "Parameters"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_KEYWORD",
+    "value" : "Keyword"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_IMPORT",
+    "value" : "Import"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_TEST",
+    "value" : "Test"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAX_POOL_SIZE",
+    "value" : "Max Pool Size"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_WEBSERVICES",
+    "value" : "Web Services"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SFORCE_CON",
+    "value" : "Salesforce Connections"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SECURITY_KEY",
+    "value" : "Security Key"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SFORCE_URL",
+    "value" : "Salesforce URL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LDAP_CON",
+    "value" : "LDAP Connections"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SAP_BW_CON",
+    "value" : "SAP BW Connections"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_HYP_ESSBASE_CON",
+    "value" : "Hyperion EssBase Connections"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STORAGE_OPTIONS",
+    "value" : "Storage Options"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DATA_STORAGE",
+    "value" : "Data Storage"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STAGING_DB",
+    "value" : "Staging DB"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_UPLOADED_FILE",
+    "value" : "Loaded Files"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CUSTOM_FIELDS",
+    "value" : "Custom Fields"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_DBA_REQ",
+    "value" : "DBA Requests"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EDIT_SRC",
+    "value" : "Edit Source"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TENANT_SETTINGS",
+    "value" : "Tenant Settings"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GENERAL_INFO",
+    "value" : "General Information"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_LOGO_IMAGE",
+    "value" : "Logo Image"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_THEMS",
+    "value" : "Themes"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_URL",
+    "value" : "URL"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXPIRE_ON",
+    "value" : "Expire On"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ERASE_TENANT",
+    "value" : "Erase Tenant"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_GROUPID",
+    "value" : "Group ID"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_START_DAEMON",
+    "value" : "Start Daemon"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_STOP_ALL_AGNT",
+    "value" : "Stop All Agents"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TRAIN_AGENT",
+    "value" : "Train Agent"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MAKE_NLP",
+    "value" : "Make NLP"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_CHN_NAME",
+    "value" : "Channel Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_THD_STATUS",
+    "value" : "Thread Status"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ON_SVC",
+    "value" : "On Service"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_ADD_PROGRAM",
+    "value" : "Add Program"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INTENT",
+    "value" : "Intent"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_COMPILE",
+    "value" : "Compile"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_PERIOD",
+    "value" : "Period"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_NICK_NAME",
+    "value" : "Nick Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_INTENT_NAME",
+    "value" : "Intent Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JAVA_SOURCE",
+    "value" : "Java Source"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_BASE_LANG",
+    "value" : "Base Language"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_SEC_LANG",
+    "value" : "Second Language"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_DOWNLOAD",
+    "value" : "Download"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_UPLOAD",
+    "value" : "Upload"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PAGE",
+    "value" : "Page"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_VALID_STATUS",
+    "value" : "Valid Status"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXECUTE",
+    "value" : "Execute"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_TST_CON",
+    "value" : "Test Connection"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_FULL_PATH",
+    "value" : "Full Path"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_EXE_RSLTS",
+    "value" : "Execution Results"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_OBJNAME_CLASS",
+    "value" : "Object Name or Class"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PICKUP_TIME",
+    "value" : "Pickup Time"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PKG_NAME",
+    "value" : "Package Name"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_JAVA_CLASS",
+    "value" : "Java Class"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PROGRAM_PARTS",
+    "value" : "Program Parts"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_APPLY_CODES",
+    "value" : "Apply Codes"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_OUTPUT_MSG",
+    "value" : "Output Message"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "B_COMPILE",
+    "value" : "Compile"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_PKG_LIST",
+    "value" : "Package List"
+  }, {
+    "group" : "locale_ja_JP_0014",
+    "name" : "L_MULTIMEASURE",
+    "value" : "Multi Measure"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI",
+    "value" : "Data Scientist"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI_MANAGER",
+    "value" : "Data Scientist Server"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI_DATA",
+    "value" : "Data Publish"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI_USER",
+    "value" : "Data Scientist Module"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI_SERVERS",
+    "value" : "Analysis Servers"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_SCI_DATASET",
+    "value" : "My DataSet Loader"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "I_SCI_DATASET",
+    "value" : "Sync DataSet"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "I_SCI_PUB_DATASET",
+    "value" : "Published DataSet"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "M_SUC_TMPL",
+    "value" : "Template already have all values."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SERVER_MESSAGE",
+    "value" : "Server Messages"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_FILTER_SCRIPT",
+    "value" : "Filter processing script error."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_LOCK_JOB",
+    "value" : "Currently processing another job. Please wait while complete."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_SEL_DC",
+    "value" : "Select Data Connector to continue!"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_CHECK_DTYPE",
+    "value" : "Check data type to staging database."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_SEL_ITEM_TO_ADD",
+    "value" : "Select item to add on the folder."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_DS_NOT_ALLOW_UPLOAD",
+    "value" : "The datasource does not allowed to upload file."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_SAVE_CONTENT",
+    "value" : "Save content to continue."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_INVALID_REV",
+    "value" : "Not valid revision number."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_PRIV_ERR",
+    "value" : "Privilege Error on content:"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_REMOVE_SELF",
+    "value" : "You cannot remove yourself."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_FOLDER_MOVE_SINGLE",
+    "value" : "Only one sub folder content can be moved."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_CHART_DRAWING",
+    "value" : "Error on chart drawing."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_CHART_LIB_LOADING",
+    "value" : "Error while loading chart library."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_CLICK_EVENT_HANDLER",
+    "value" : "Error on click event handler:"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_PROMPT_CONTROL_DEF",
+    "value" : "Error on prompt control definition."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_SEL_TGT_ITEM",
+    "value" : "Select target item to continue."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "E_SEL_TGT",
+    "value" : "Select Target Item."
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "M_CONFIRM_COMPILE",
+    "value" : "Are you sure to compile the content?"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_T_RECENT_VISIT",
+    "value" : "Recent visit and Favorites"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_PEOPLE",
+    "value" : "People"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_CLICK_STYLE_TO_EDIT",
+    "value" : "Click Style Item to Edit"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_VIEW_NAME",
+    "value" : "View Name"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SQL_QUERY",
+    "value" : "SQL Query"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SRC_TABLES",
+    "value" : "Source Tables"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_FIELD_MAPPING",
+    "value" : "Field Mapping"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_LENGTH",
+    "value" : "Length"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_TGT_TBL_NAME",
+    "value" : "Target Table Name"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "T_BO_EXTRACT_META",
+    "value" : "Extract Meta"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_DATA",
+    "value" : "Data"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SAVE_FIELD",
+    "value" : "Save Field"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_EXAMPLE",
+    "value" : "Example"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_DATE_FORMAT_EX",
+    "value" : "Date Format Example"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_START_MIN",
+    "value" : "Start Minimum"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_END_MAX",
+    "value" : "End Maximum"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_STEP_INT",
+    "value" : "Step Interval"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_UNDER_MIN",
+    "value" : "Under Minimum"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_OVER_MAX",
+    "value" : "Over Maximum"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_LABEL_TEXT",
+    "value" : "Label Text"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_NUMERIC_FORMAT",
+    "value" : "Numeric Format"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_LINK_OPTION",
+    "value" : "Link Options"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_DISP_NAME",
+    "value" : "Display Name"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_TARGET_REPORT",
+    "value" : "Target Report"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_PARENT_CHILD_OPTIONS",
+    "value" : "Parent Child Options"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_CALC_IN_RESULT",
+    "value" : "Calculate in Result"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SHOW_HTML",
+    "value" : "Show HTML"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_USE_TEMP",
+    "value" : "Use Temporary"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_USE_STG",
+    "value" : "Use Staging DB"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_BB_SG_RDR",
+    "value" : "Row Data to Redraw"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_USE_EXPRESSION",
+    "value" : "Use Expression"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_DATE_FORMATTING",
+    "value" : "Date Formatting"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SQL_FUNC",
+    "value" : "SQL Function"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_ENABLE_OTH_UPLOAD",
+    "value" : "Enabled (Allow other user upload file)"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_ALLOW_MULTI_FILE",
+    "value" : "Allow Multiple File Upload"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_IGN_BLK_VAL",
+    "value" : "Ignore Blank Value"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_DT_TYPE_FIELD",
+    "value" : "Date Type Field"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SET_DATE",
+    "value" : "Set Date"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SYNC_ROWS",
+    "value" : "Synchronize Rows"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_READY",
+    "value" : "Ready"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_CACHED",
+    "value" : "Cached"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SEL_DUTY",
+    "value" : "Select Role"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "B_EMAIL",
+    "value" : "Email"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_AUD_USER",
+    "value" : "Audit Users"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_AUD_USER_FLT",
+    "value" : "User Search Criteria"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_AUD_USER_GRID",
+    "value" : "Audit User Lists"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_LAST_ACC_DT",
+    "value" : "Last Access Date"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_LAST_ACCESSED",
+    "value" : "Last Accessed"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_FIELD_VALUE",
+    "value" : "Field Value"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_ENCODING",
+    "value" : "Encoding"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SHEETNAME",
+    "value" : "Sheet Name"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_HEADER_NAME",
+    "value" : "Header Name"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SIZE",
+    "value" : "Size"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_ADD_SYS_KEY",
+    "value" : "Add System Key"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_CRT_TBL",
+    "value" : "Create Table"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_SCRIPT",
+    "value" : "Script"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_COLUMN_PROP",
+    "value" : "Column Property"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_DATA_SIZE",
+    "value" : "Data Size"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_IS_KEY",
+    "value" : "Is Key"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_LD_INTO_TBL",
+    "value" : "Load into Table"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_CLR_TBL",
+    "value" : "Clear Table"
+  }, {
+    "group" : "locale_ja_JP_0015",
+    "name" : "L_FILE_UPLOAD_HIST",
+    "value" : "File Upload History"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_API_VERSION",
+    "value" : "API Version"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_CSS_URL",
+    "value" : "CSS URL"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_JS_LOADER_URL",
+    "value" : "JS Loader URL"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_BASE_MAP",
+    "value" : "Base Map"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_REST_APIS",
+    "value" : "REST APIs"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ZOOM_LEVEL",
+    "value" : "Zoom Level"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_PALETTE",
+    "value" : "Palette"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_MIN_RADIUS",
+    "value" : "Minimum Radius"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_MAX_RADIUS",
+    "value" : "Maximum Radius"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_MAP_CENTER_LAT_LNG",
+    "value" : "Map Center (Lat,Lng)"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_BASEMAP",
+    "value" : "Base Map"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ENABLE_3D",
+    "value" : "Enable 3D"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ALPHA_ANGLE",
+    "value" : "Alpha Angle"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_BETA_ANGLE",
+    "value" : "Beta Angle"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_DEPTH",
+    "value" : "Depth"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_VIEW_DIST",
+    "value" : "View Distance"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_FIELD_COLUMN",
+    "value" : "Field Column"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_DATA_SERIES",
+    "value" : "Data Series"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SVG_DRAW_OPTIONS",
+    "value" : "SVG Drawing Options"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SVG_RENDERERS",
+    "value" : "SVG Renderers"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SVG_TYPE",
+    "value" : "SVG Type"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SHEET_NAME",
+    "value" : "Sheet Name"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_UPD_DATE",
+    "value" : "Updated Date"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_DATE_IMPORTED",
+    "value" : "Imported Date"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_GEOMAPPING",
+    "value" : "Geo Mapping"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_AES_PASS_PHRASE",
+    "value" : "AES Pass Phrase"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_OBJECT_ID",
+    "value" : "Object ID"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_FIELDNAME",
+    "value" : "Field Name"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_VALUE_CONTROLS",
+    "value" : "Value Controls"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_CSS_NAME",
+    "value" : "CSS Name"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_STEP_INCREASE",
+    "value" : "Increase Step"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SLIDER_OPTIONS",
+    "value" : "Slider Options"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_DATETIME_SETUP",
+    "value" : "Date Time Setup"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_PERIOD_SETUP",
+    "value" : "Period Setup"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_FILEUPLOAD_SETTINGS",
+    "value" : "File Upload Settings"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_UPLOAD_FILE",
+    "value" : "Upload File"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SHOW_FILEHIST",
+    "value" : "Show File History"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_SHOW_ALLFILES",
+    "value" : "Show All Files"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_MULTIPLE_FILES",
+    "value" : "Multiple Files"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_VALUESET_OPTIONS",
+    "value" : "Value Set Options"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ENABLE_OTH_UPL",
+    "value" : "Allow User Upload"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_TEMPLATE_CONTEXT",
+    "value" : "Template Context"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "B_LEFT",
+    "value" : "Left"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "B_RIGHT",
+    "value" : "Right"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_FV_OPT",
+    "value" : "Form Viewer Option"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_NEW_ANAL",
+    "value" : "New Analysis"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ANAL_GROUP",
+    "value" : "Analysis Group"
+  }, {
+    "group" : "locale_ja_JP_0016",
+    "name" : "L_ANALYSIS_TYPE",
+    "value" : "Analysis Type"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PIE_DASHBOARD",
+    "value" : "Pie and Dashboard"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SCATTER_POINT",
+    "value" : "Scatter and Point"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_STOCK_LOW_HIGH",
+    "value" : "Stock and Low High Analysis"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TREEMAP",
+    "value" : "Tree Map"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RELATION_FINDING",
+    "value" : "Relation Finding"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SCI_ANAL",
+    "value" : "Scientific Analysis"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_STAT_VIS",
+    "value" : "Statistical Data Visualization"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAP_GEO",
+    "value" : "Map and Geographical"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_QUALITY_CTRL",
+    "value" : "Quality Control"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_COLUMN",
+    "value" : "Column"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_LINE",
+    "value" : "Line"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_SPLINE",
+    "value" : "Spline"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_AREA",
+    "value" : "Area"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_SPLINE_AREA",
+    "value" : "Spline Area"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_BAR",
+    "value" : "Bar"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_PIE",
+    "value" : "Pie"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_DOUGHNUT",
+    "value" : "Doughnut"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_BUBBLE",
+    "value" : "Bubble"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_SCATTER",
+    "value" : "Scatter"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_TREEMAP",
+    "value" : "Treemap"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_WATERFALL",
+    "value" : "WaterFall"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_SYNC_CHART",
+    "value" : "Synchronized Chart"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_RADAR",
+    "value" : "Radar"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_FUNNEL",
+    "value" : "Funnel"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_PYRAMID",
+    "value" : "Pyramid"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_MAP",
+    "value" : "Map"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_COMP_MATRIX",
+    "value" : "Comparison Matrix"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_PARA_COORD",
+    "value" : "Parallel Coordinates"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_MEAN_DEV",
+    "value" : "Mean & Deviation"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_BOXPLOT",
+    "value" : "Box Plot"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_NET_DIAG_POS",
+    "value" : "Network Diagram(+)"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_NET_DIAG_NEG",
+    "value" : "Network Diagram(-)"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_MATRIX_DIAGRAM",
+    "value" : "Matrix Diagram"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_FORCE_DIRECT",
+    "value" : "Force Directed Layouts"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_CLUSTER",
+    "value" : "Cluster Chart"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_CHORD",
+    "value" : "Chord Chart"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_SUNBURST",
+    "value" : "Sun Burst Chart"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_BUBBLE_MAP",
+    "value" : "Bubble Map"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_FIXED_PLACE",
+    "value" : "Fixed Placement"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BTM_LEFT",
+    "value" : "Bottom Left"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BTM_CENTER",
+    "value" : "Bottom Center"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BTM_RIGHT",
+    "value" : "Bottom Right"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TOP_LEFT",
+    "value" : "Top Left"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TOP_CENTER",
+    "value" : "Top Center"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TOP_RIGHT",
+    "value" : "Top Right"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RIGHT_TOP",
+    "value" : "Right Top"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RIGHT_CENTER",
+    "value" : "Right Center"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RIGHT_BTM",
+    "value" : "Right Bottom"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_LEFT_TOP",
+    "value" : "Left Top"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_LEFT_CENTER",
+    "value" : "Left Center"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_LEFT_BTM",
+    "value" : "Left Bottom"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_PERCENT_GAUGE",
+    "value" : "Percent Gauge"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CH_WINLOSE",
+    "value" : "WinLose Chart"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_COL_SYNC",
+    "value" : "Column Sync"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_UNDO",
+    "value" : "Undo"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_ALIAS",
+    "value" : "Alias"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "D_CLIPBOARD",
+    "value" : "Press Ctrl-A then Ctrl-C to copy this content to clipboard!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_PIVOT_CHANGED",
+    "value" : "To apply pivot, click execute button on report toolbar!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_CENTER",
+    "value" : "Center"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BOX_COUNTS",
+    "value" : "Box Counts"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_LAYOUT_MODE",
+    "value" : "Layout Mode"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_REMOVE_CHECKED",
+    "value" : "Remove Checked"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_SYNTAX",
+    "value" : "Syntax"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TEMPLATE_TYPE",
+    "value" : "Template Type"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MIN_COLOR",
+    "value" : "Min Color"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MID_COLOR",
+    "value" : "Mid Color"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAX_COLOR",
+    "value" : "Max Color"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_COLOR_CATEG",
+    "value" : "Color Category"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MARKER_SIZE",
+    "value" : "Marker Size"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MARKER_SYMBOL",
+    "value" : "Marker Symbol"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_ERR_CHART_SEL",
+    "value" : "Chart type need to be selected!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MERGE_COL",
+    "value" : "Merge Column"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_ROW_LOCATION",
+    "value" : "Row Location"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PROMPT_VALUES",
+    "value" : "Prompt Values"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_PASS_MISMATCH",
+    "value" : "Password is not match with confirm value"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_COMP_SUCCESS",
+    "value" : "Compiled Successfully"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_COMP_CAPTURE",
+    "value" : "Capture completed!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_VALUESET_EXIST",
+    "value" : "ValueSet already exists in selection."
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_CONFIRM_CLOSE",
+    "value" : "Close editing items and continue to confirm!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_SEL_SINGLE",
+    "value" : "Select 1 item to continue!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_TARGET_NOTFOUND",
+    "value" : "Target item not found"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_NOTFOUND_IN_DIM",
+    "value" : "Item not found on dimension list!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_PROC_WAIT",
+    "value" : "Still progressing. Please wait!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SHEET_TOOLBAR",
+    "value" : "Sheet Toolbar"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SHEET_SCRIPTS",
+    "value" : "Sheet Script"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CUST_LEGEND",
+    "value" : "Custom Legend"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_SELECT_FOLDER",
+    "value" : "Select Folder item to continue"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_UP_FILE_FRST",
+    "value" : "Upload file and continue to import process!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DASHBOARD_OPTION",
+    "value" : "Dashboard Option"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CUST_INFO",
+    "value" : "InfoWindow Template"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_GEOFIELD",
+    "value" : "Geo Field"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_IS_PARAM",
+    "value" : "Is Parameter"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_USE_VALUE_AS_PARAM",
+    "value" : "Use as Parameter (Not in WHERE clause)"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_CHAR",
+    "value" : "Start of string!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_NUM",
+    "value" : "At least one digit!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_LOW_CHAR",
+    "value" : "At least one lower case!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_UPP_CHAR",
+    "value" : "At least one upper case!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_SPEC_CHAR",
+    "value" : "One or more @ special character!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_WHT_SPACE",
+    "value" : "No white space allowed!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PWD_F_LEN",
+    "value" : "At least @ places!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BLANK_USERID",
+    "value" : "UserID should not be empty!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_BLANK_PASSWORD",
+    "value" : "Password should not be empty!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAP_POST_EXEC",
+    "value" : "Post Exec Script"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAP_SAVE_POS",
+    "value" : "Remember Last Setting"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RELEASE_LOCK",
+    "value" : "Click Yes to confirm to release lock of this user!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SS_LOCKED",
+    "value" : "Login Lock"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_USR_AUD_TITLE",
+    "value" : "User Audit @"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SK_RPT",
+    "value" : "Search in navigation"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CATEGORY",
+    "value" : "Category"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CHECK_EMAIL",
+    "value" : "Check Email"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RCPTS",
+    "value" : "Recipients"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "M_SMTP_TST",
+    "value" : "Wow! email sent with configuration. Please check on the INBOX test email from us!"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "T_USERS",
+    "value" : "Users"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RECENT_SUBJECT",
+    "value" : "Recent Subject"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_SEARCH_RESULT",
+    "value" : "Search Results"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_SUC",
+    "value" : "Success"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_FAIL",
+    "value" : "Fail"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_READ",
+    "value" : "Read"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_UPDATE",
+    "value" : "Update"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_LOGOUT",
+    "value" : "Logout"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_DELETE",
+    "value" : "Delete"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_WRITE",
+    "value" : "Write"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_SECURITY",
+    "value" : "Security"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "S_NA",
+    "value" : "Not Available"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TWOWAY_AUTH",
+    "value" : "Two-way Auth"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_H2_PERSIST_ENABLED",
+    "value" : "H2 Persist DB"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_ARC_VIEW",
+    "value" : "ArcGIS View"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAP_CAMERA",
+    "value" : "Map Camera"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DEL_FLT",
+    "value" : "Click to remove filter item"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_FLT_MG_LEFT",
+    "value" : "Click to merge left"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_FLT_ST_ROW",
+    "value" : "Click to start row"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PKG_LST",
+    "value" : "Java Import"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DETAILED_STAT",
+    "value" : "Status Detail"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_EDIT_JOB",
+    "value" : "Edit Job"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CANCEL_JOB",
+    "value" : "Cancel Job"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PURGE_JOB",
+    "value" : "Purge Job"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PICKUP_DATE",
+    "value" : "Pickup Date"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_STARTED_DATE",
+    "value" : "Started Date"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_EXEC_LOG",
+    "value" : "Execution Log"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MIN_A_COLOR",
+    "value" : "Level 2 Color"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MID_A_COLOR",
+    "value" : "Level 4 Color"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_PANEL_CSS",
+    "value" : "Panel CSS"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_FLOAT_PANEL",
+    "value" : "Float Panel"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_FLOAT_OPTION",
+    "value" : "Float Panel Options"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_RESIZABLE",
+    "value" : "Resizable"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MOVEABLE",
+    "value" : "Moveable"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAP_POPUP_HOVER",
+    "value" : "Mouse over Popup"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_HIDE_MAX",
+    "value" : "Hide Maximize"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_COLLAPSE",
+    "value" : "Collapsible"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CLP_START",
+    "value" : "Open Collapsed"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_CLP_CSS",
+    "value" : "Collapse Icon CSS"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_HTML",
+    "value" : "HTML Code"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_JSCRIPT",
+    "value" : "JavaScript"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_TB_CHART",
+    "value" : "Toolbar ChartWizard"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_ENABLE_DISABLE",
+    "value" : "Set Enable"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_INC_USERS",
+    "value" : "Include Users"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_INC_DEPTS",
+    "value" : "Include Departments"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_INC_ROLES",
+    "value" : "Include Roles"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_WIDGET_OPTION",
+    "value" : "Widget Options"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_LOADING",
+    "value" : "Loading... Please wait for processing"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "E_SHEET_EXP",
+    "value" : "Error on sheet export. Please run report and try again."
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_ROW",
+    "value" : "Row"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_COL",
+    "value" : "Column"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_TXT",
+    "value" : "Text Input"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_SINGLE_SEL",
+    "value" : "Single Selection"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_MULTI_SEL",
+    "value" : "Multi Selection"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_RADIO",
+    "value" : "Radio Buttons"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_CHECK",
+    "value" : "Check Buttons"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_SLIDER",
+    "value" : "Slider Bar"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_CALENDAR",
+    "value" : "Calendar"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_PERIOD",
+    "value" : "Period"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_C_FILEUPLOAD",
+    "value" : "File Upload"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_F_NOTEQ",
+    "value" : "Not Equal"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_ON_X_AXIS",
+    "value" : "On X Axis"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DT_MASHING",
+    "value" : "Mashing"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DEPLOY",
+    "value" : "Deploy"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_DEPLOY_TARGET",
+    "value" : "Deploy Target"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_NORMAL",
+    "value" : "Normal"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "B_SQL",
+    "value" : "SQL"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_OUTER_RADIUS",
+    "value" : "Outer Radius"
+  }, {
+    "group" : "locale_ja_JP_0017",
+    "name" : "L_MAX_POOL_WAIT_MILLS",
+    "value" : "Max Wait Mills"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_RSCRIPT",
+    "value" : "R Script"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_R_PROMPT",
+    "value" : "R Prompt"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "B_REQUEST",
+    "value" : "Request"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_POSITION",
+    "value" : "Position"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "B_OUTSIDE",
+    "value" : "Outside"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "B_OPERATION",
+    "value" : "Operation"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_CHART_SEP",
+    "value" : "Chart Separator"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_C_TIP_EN",
+    "value" : "Enable Tooltip"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_ROT_ANGLE",
+    "value" : "Rotation Angle"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_XAXIS_SETTINGS",
+    "value" : "X Axis Settings"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "B_UPD",
+    "value" : "Update"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "F_P_POT_COL",
+    "value" : "Percent of parent"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_HIDE_PROGRESS",
+    "value" : "Hide Progressbar"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_WC_OPT",
+    "value" : "Word Cloud Options"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_WC_MIN",
+    "value" : "Min font size"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_WC_MAX",
+    "value" : "Max font size"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_FILTER_VALUESET",
+    "value" : "Value Set"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_GROUP_CATEG",
+    "value" : "Grouped Category"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "M_CONFIRM_SHARE_URL",
+    "value" : "Click Yes to confirm creating shared url for this report."
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_TRASHBIN",
+    "value" : "Trashbin"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_PCT_PREC",
+    "value" : "Percent Precision"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_RNK_D_NAME",
+    "value" : "Column name to SUM"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_R_INT",
+    "value" : "R statistics Integration"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_R_SVR",
+    "value" : "R serve host"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_R_SVR_PORT",
+    "value" : "R server port"
+  }, {
+    "group" : "locale_ja_JP_0018",
+    "name" : "L_R_TEMP",
+    "value" : "Temp folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_NAV",
+    "value" : "Folder navigation options"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_REPORT_MENU",
+    "value" : "Report main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MENU_RPT",
+    "value" : "New report option"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MENU_SQL_RPT",
+    "value" : "New SQL Report option"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MENU_FORMBUILDER",
+    "value" : "New Formbuilder option"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ANAL",
+    "value" : "Analysis main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_VAR",
+    "value" : "Variable management"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_LOOKUP",
+    "value" : "Lookup management"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DBD",
+    "value" : "Form builder management"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DATASET",
+    "value" : "Dataset main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DBCON",
+    "value" : "Database connection manager"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DB_ADD",
+    "value" : "Adding new database connection"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DATASET",
+    "value" : "Create Dataset privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DATASET_DBA",
+    "value" : "Dataset DBA role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DS_REQB",
+    "value" : "DBA create table privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DS_SDDLB",
+    "value" : "Dataset create sql button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MNGR",
+    "value" : "Management main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYS",
+    "value" : "System sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_USER",
+    "value" : "User management menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYS_CONFIG",
+    "value" : "System config menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYS_UICONFIG",
+    "value" : "System UI setting menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYS_SSO",
+    "value" : "Single sign on setting menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYS_SSO_DESIGNER",
+    "value" : "Single sign on designer programmer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_FT",
+    "value" : "Feature control privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ASSIST_ROBOT",
+    "value" : "Assist robot setting role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SETTINGS",
+    "value" : "Settings sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_LNF",
+    "value" : "Look and feel setting"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_LOC",
+    "value" : "Locale management role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DLOC",
+    "value" : "Locale dictionary setting"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_CHART_DSGN",
+    "value" : "Chart designer in look and feel"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MON",
+    "value" : "Monitoring sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_IMP",
+    "value" : "Meta import role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MIGRATION",
+    "value" : "AMPLIX update manager role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYSLOG",
+    "value" : "System log role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_AUDIT_USER",
+    "value" : "Audit user activity role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_AUDIT_RPT",
+    "value" : "Audit user report execution role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_AUDIT_JDBC",
+    "value" : "JDBC monitoring role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_AUDIT_EMAIL",
+    "value" : "Email notification history role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SYSRES",
+    "value" : "System Resource management"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCHEDULE",
+    "value" : "Schedule execution monitoring"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCHEDULE_PROG",
+    "value" : "Schedule programmer role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MAIL",
+    "value" : "User management sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MX_REG",
+    "value" : "User registeration role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MX_UPD",
+    "value" : "Update user role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MX_PRS",
+    "value" : "Password reset role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_BDMGR",
+    "value" : "Big Data main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_HDOOP",
+    "value" : "Hadoop developer sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_HD_FLOW",
+    "value" : "Hadoop flow developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_HD_MAPR",
+    "value" : "Map reduce programmer role"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MONGO",
+    "value" : "MongoDB developer sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MG_DPROC",
+    "value" : "MongoDB data processor developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MG_DATA",
+    "value" : "MongoDB Data collector developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MLMGR",
+    "value" : "Machine learning developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ML_BAYES",
+    "value" : "Bayes Machine Learning"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ML_BAYES_RPT",
+    "value" : "Bayes report developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ML_LEARN",
+    "value" : "Learn button on report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MIG",
+    "value" : "Migration utility"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DISCO",
+    "value" : "Oracle Discoverer migration utility"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_META_UPGRADE",
+    "value" : "Meta upgrade utility for amplix previous version"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_CW",
+    "value" : "Create new workspace menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_LST",
+    "value" : "Navigation option drop down menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_P",
+    "value" : "Private contents"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_A",
+    "value" : "All contents"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_FAV",
+    "value" : "Favorite contents"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_MW",
+    "value" : "Manage workspace"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_RCNT",
+    "value" : "Most recent contents"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DEL",
+    "value" : "Delete content"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_FP",
+    "value" : "Folder popup menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_F",
+    "value" : "Create new option menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_F_F",
+    "value" : "Create folder menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DBM",
+    "value" : "New database model menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_BOBJ",
+    "value" : "New business object menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_RPT",
+    "value" : "New report menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_SQLRPT",
+    "value" : "New SQL report menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DBD",
+    "value" : "New Formbuilder menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_CRPT",
+    "value" : "New Composite menu (Deprecated)"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_N_HB",
+    "value" : "New Hadoop business flow"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_JC",
+    "value" : "New Javaclass program module"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_F_R",
+    "value" : "R statistics script"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_JCM",
+    "value" : "Java class module developer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_CC",
+    "value" : "New Cube Items"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_CM",
+    "value" : "New Custom Dimension"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_DM",
+    "value" : "New Date Dimension"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_FM",
+    "value" : "New Calculation formula"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_MS",
+    "value" : "New Measure"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_CMS",
+    "value" : "New Chart Measure Dimension"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_UDG",
+    "value" : "New User Defined Group Dimension"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_GM",
+    "value" : "New Group Measure"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_HM",
+    "value" : "New Hierarchy Dimension"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_EXP",
+    "value" : "Export Meta content to file"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_CP",
+    "value" : "Copy item to memory"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_REN",
+    "value" : "Rename item"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_MV",
+    "value" : "Move item to other folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_OAUTH",
+    "value" : "Item access control privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_OSUBSCR",
+    "value" : "Item subscription to other tenant"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_REV",
+    "value" : "Item version control and recovery"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_REF",
+    "value" : "Refresh folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_MGF",
+    "value" : "Manage folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_E_CUBE",
+    "value" : "Edit Cube in workspace"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_N_E_META",
+    "value" : "Edit meta content in text editor (JSON)"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_M_CTRL",
+    "value" : "Options for meta item on popup menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_M_SAVE",
+    "value" : "Enable save content"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_M_SAVEAS",
+    "value" : "Enable save as content"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_M_PRV_WS",
+    "value" : "Create private workspace folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_M_TEAM_WS",
+    "value" : "Create team workspace folder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_REPORT",
+    "value" : "Report toolbar access control"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_TBAR",
+    "value" : "Enable toolbar"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_SAVE",
+    "value" : "Enable save report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_SAVEAS",
+    "value" : "Enable saveas report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RUN",
+    "value" : "Enable run button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_DESIGN",
+    "value" : "Enable pivot design"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_VSEL",
+    "value" : "View selection toggle button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_GRID",
+    "value" : "Enable grid view mode"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CHART",
+    "value" : "Enable chart view mode"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_ANAL",
+    "value" : "Enable analysis mode"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_FVIEW",
+    "value" : "Enable formviewer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_R",
+    "value" : "Enable R statistics view mode"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_PYTHON",
+    "value" : "Enable python view mode"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RPT_VR",
+    "value" : "Enable add Report Viewer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_STORY",
+    "value" : "Enable story viewer button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_BURSTING",
+    "value" : "Enable email bursting"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_FORMB",
+    "value" : "Enable form builder"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_EMAIL",
+    "value" : "Enable Share report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_FM",
+    "value" : "Enable formula in report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_P_CMT",
+    "value" : "Enable adding custom dimension in report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_EXP",
+    "value" : "Enable report export to office document"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_XLS",
+    "value" : "Enable excel export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_PPT",
+    "value" : "Enable power point export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_PDF",
+    "value" : "Enable PDF export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CSV",
+    "value" : "Enable CSV export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_HTML",
+    "value" : "Enable HTML export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_JASPER",
+    "value" : "Enable Jasper template export"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CLB",
+    "value" : "Enable clipboard copy"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_EOPT",
+    "value" : "Enable export option toolbar button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_TOOLS",
+    "value" : "Enable tools button on toolbar"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CRPT",
+    "value" : "Enable change report type"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_STAT",
+    "value" : "Enable basic statistics"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_ANAL_MENU",
+    "value" : "Analysis menu options"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_DOCK",
+    "value" : "Enable drag and drop docking layout changes"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_EDPANEL",
+    "value" : "Enable edit layouts"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_ADPANEL",
+    "value" : "Enable adding widget panel on report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RSUM",
+    "value" : "R statistics summary button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RSCE",
+    "value" : "R statistics script editor developer privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RWZD",
+    "value" : "R wizard management privileges"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_RIMG",
+    "value" : "R export to image button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CWZ",
+    "value" : "Chart wizard button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_CT",
+    "value" : "Chart type selection button on toolbar"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_SCH",
+    "value" : "Enable scheduling report on background"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_FAV",
+    "value" : "Enable favorite button"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_INST",
+    "value" : "Enable add instruction description on report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_HELP",
+    "value" : "Enable add document on report"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MANUAL",
+    "value" : "Manual management main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_MANUAL_AUTH",
+    "value" : "Manual publisher menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI",
+    "value" : "Data Science module main menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_MGR",
+    "value" : "Data Science management sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_MGR_DATASET",
+    "value" : "Data Science public dataset management"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_MGR_LOGGER",
+    "value" : "Data Science logging and history"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_USR",
+    "value" : "Data Science user sub menu"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_USER_SERVERS",
+    "value" : "List all Data Science server and connections"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_SCI_DATASET",
+    "value" : "Data Science available dataset lists"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_R_DOCK",
+    "value" : "Enable drag and drop docking layout changes"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "B_PURGE",
+    "value" : "Purge"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "LR_IG_TRASHBIN",
+    "value" : "Trashbin"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_PARDOT_BUNIT",
+    "value" : "Pardot Business Unit"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_PARDOT_CLNT_SECRET",
+    "value" : "Client Secret"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_PARDOT_URL",
+    "value" : "Pardot Endpoint"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_REQ_CRT_TABLE",
+    "value" : "Request Table Create"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_DATA_PREC",
+    "value" : "Precision"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_HELPER_TMPL",
+    "value" : "Helper Templates"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_CHART_DESIGN",
+    "value" : "Chart Designer"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_PREDEFINED",
+    "value" : "Predefined Roles"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_CUSTOM+_DUTY",
+    "value" : "Custom Roles"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_GROUP_DUTY",
+    "value" : "Group Roles"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_EVT_LOAD",
+    "value" : "Data Loaded Handler"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_EVT_CLICK",
+    "value" : "Cell Click Handler"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_EVT_DBCLK",
+    "value" : "Double Click Handler"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_THEME",
+    "value" : "Theme"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_EC_THEME_LST",
+    "value" : "Chart Theme Lists"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_ADD_NEW_CHART",
+    "value" : "Add new chart"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "B_LABEL",
+    "value" : "Label"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_CHART_SUBTYPE",
+    "value" : "Chart Subtype"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_CHART_IMG",
+    "value" : "Icon Image"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "I_META_EDIT",
+    "value" : "Meta Editor"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_SKIP_HEADER",
+    "value" : "Skip Header"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_SKIP_COLUMN",
+    "value" : "Skip Column"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_HEADER_COUNT",
+    "value" : "Header Counts"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_READONLY",
+    "value" : "Read Only"
+  }, {
+    "group" : "locale_ja_JP_0019",
+    "name" : "L_HIDDEN",
+    "value" : "Hidden"
+  } ]
+}
