@@ -2,6 +2,7 @@
 	"cache": "202202032127",
     "boot": {
         "framework": [
+			"./amplix/js/material-components-web.min.js",
             "./amplix/js/framework.min.js"
         ],
         "vis": [
