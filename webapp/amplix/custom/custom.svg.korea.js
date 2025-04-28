@@ -73,11 +73,11 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 				}
 			}
 
-			me.load_chart("./data/geojson/kr/" + cop.maptype + ".json", 0);
+			me.load_chart("./amplix/data/geojson/kr/" + cop.maptype + ".json", 0);
 		}
 		else
 		{
-			me.load_chart("./data/korea_geojson.json", 0);
+			me.load_chart("./amplix/data/korea_geojson.json", 0);
 		}
 	},
 
@@ -735,7 +735,7 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 
 		if (level == 0 && feature.properties.CTPRVN_CD)
 		{
-			me.load_chart("./data/geojson/kr/G" + feature.properties.CTPRVN_CD + ".json", level + 1, mchart);
+			me.load_chart("./amplix/data/geojson/kr/G" + feature.properties.CTPRVN_CD + ".json", level + 1, mchart);
 		}
 		else if (level == 1)
 		{
@@ -744,24 +744,24 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 
 			if (sig_cd && sig_cd.startsWith("4812"))
 			{
-				me.load_chart("./data/geojson/kr/4812.json", level + 1, mchart);
+				me.load_chart("./amplix/data/geojson/kr/4812.json", level + 1, mchart);
 			}
 			else if (sig_cd && sig_cd == "48170")
 			{
 				cindex = 2;
-				me.load_chart("./data/geojson/kr/48170.json", level + 1, mchart);
+				me.load_chart("./amplix/data/geojson/kr/48170.json", level + 1, mchart);
 			}
 		}
 		else if (level == 2)
 		{
 			cindex = 2;
 
-			if (mchart.jsonurl == "./data/geojson/kr/4812.json")
+			if (mchart.jsonurl == "./amplix/data/geojson/kr/4812.json")
 			{
 				cindex = 1;
 			}
 			var sig_cd = feature.properties.sig_cd;
-			sig_cd && me.load_chart("./data/geojson/kr/" + sig_cd + ".json", level + 1, mchart);
+			sig_cd && me.load_chart("./amplix/data/geojson/kr/" + sig_cd + ".json", level + 1, mchart);
 		}
 		else if (level == 3)
 		{

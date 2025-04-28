@@ -24,8 +24,8 @@ IG$.cVis.circlepacking = $s.extend(IG$.cVis.base, {
 		if (!IG$.cVis.circlepacking._loaded)
 		{
 			var js = [
-					"./js/d3-hierarchy.min.js",
-					"./custom/custom.circlepacking.worker.js"
+					"./amplix/js/d3-hierarchy.min.js",
+					"./amplix/custom/custom.circlepacking.worker.js"
 				];
 			
 			IG$.cVis.circlepacking._loading = 1;

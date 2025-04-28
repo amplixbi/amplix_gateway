@@ -14,7 +14,7 @@ IG$.cVis.vworldmap = $s.extend(IG$.cVis.base, {
 	draw: function(results) {
 		var me = this,
 			js = [
-				"./custom/custom.map.vworld.worker.js"
+				"./amplix/custom/custom.map.vworld.worker.js"
 			];
 
 		if (IG$.cVis.vworldmap._loading)

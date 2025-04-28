@@ -24,7 +24,7 @@ IG$.cVis.treehierarchy = $s.extend(IG$.cVis.base, {
 		if (!IG$.cVis.treehierarchy._loaded)
 		{
 			var js = [
-					"./custom/custom.treehierarchy.worker.js"
+					"./amplix/custom/custom.treehierarchy.worker.js"
 				];
 			
 			IG$.cVis.treehierarchy._loading = 1;
