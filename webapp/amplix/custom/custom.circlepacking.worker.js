@@ -34,7 +34,7 @@
 
 	var root = {
 		id: "root",
-		name: "전체",
+		name: "ALL",
 		depth: 0,
 		value: 0,
 		index: 0,
