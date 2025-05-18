@@ -1,6 +1,7 @@
 ﻿var ig$ = {
     useLocale: "en_US",
     servlet: "./servlet/krcp",
+	datafolder: "./amplix/",
     companyname: "amplix",
     appname: "amplix",
     appbg: "bg_7186.png",

@@ -76,6 +76,10 @@ var objid = "2e063e80-81f14523";
 var modules = ["framework", "app_viewer", "appnc", "vis_ec", "vis_ec_theme", "custom_viewer", "custom"];
 IG$.__microloader(modules, function() {
 	$s.ready(function() {
+		// prevent login window
+		IG$.showLogin = function() {
+		};
+		
 		var viewer_inst = new IG$.amplix_instance({
 			target: "#mainview"
 		});

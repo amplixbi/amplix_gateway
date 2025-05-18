@@ -28,11 +28,11 @@ IG$.cVis.openstreetmap = $s.extend(IG$.cVis.base, {
 			IG$.cVis.openstreetmap._loading = 1;
 			
 			IG$.getScriptCache([
-                "./amplix/css/leaflet.css",
-                "./amplix/js/leaflet.js"
+                (ig$.datafolder || "./") + "css/leaflet.css",
+                (ig$.datafolder || "./") + "js/leaflet.js"
 			], new IG$.callBackObj(this, function() {
 				var js = [
-						"./amplix/custom/custom.map.openstreet.worker.js"
+						(ig$.datafolder || "./") + "custom/custom.map.openstreet.worker.js"
 					];
 				
 				IG$.getScriptCache(

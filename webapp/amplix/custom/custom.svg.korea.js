@@ -15,6 +15,8 @@ IG$.cVis.koreaMapTypes = function() {
 
 	mtype.sido = [
 		{name: "서울특별시", subtype: "G11"},
+		{name: "인천광역시", subtype: "G28"},
+		{name: "경기도", subtype: "G41"},
 		{name: "경상남도", subtype: "G48"},
 		{name: "창원시", subtype: "4812"},
 		{name: "대전", subtype: "G30"},
@@ -73,11 +75,11 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 				}
 			}
 
-			me.load_chart("./amplix/data/geojson/kr/" + cop.maptype + ".json", 0);
+			me.load_chart((ig$.datafolder || "./") + "data/geojson/kr/" + cop.maptype + ".json", 0);
 		}
 		else
 		{
-			me.load_chart("./amplix/data/korea_geojson.json", 0);
+			me.load_chart((ig$.datafolder || "./") + "data/korea_geojson.json", 0);
 		}
 	},
 
@@ -231,11 +233,11 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 							{
 								mchart.geo_alias_map[feature.properties.CTPRVN_CD] = fname;
 							}
-							else if (feature.properties.sig_cd)
+							if (feature.properties.sig_cd)
 							{
 								mchart.geo_alias_map[feature.properties.sig_cd] = fname;
 							}
-							else if (feature.properties.emd_cd)
+							if (feature.properties.emd_cd)
 							{
 								mchart.geo_alias_map[feature.properties.emd_cd] = fname;
 							}
@@ -602,9 +604,10 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 
 					if (feature)
 					{
-						var cindex = 0;
+						var cindex = 0,
+							prop = feature.properties;
 
-						pdata = feature.properties.name;
+						pdata = prop.name;
 						
 						if (me._config.enable_drill)
 						{
@@ -615,8 +618,8 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 						for (i=results.rowfix; i < rcnt; i++)
 						{
 							row = _tabledata[i];
-
-							if (row[cindex].code == pdata)
+							var cval = row[cindex].code;
+							if (cval == pdata || cval == prop.sig_cd)
 							{
 								row[cindex].r = i;
 								row[cindex].c = cindex;
@@ -712,7 +715,7 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 		{
 			cd1 = row[1].code;
 		}
-		else if (level == 2 && mchart.jsonurl == "./data/geojson/kr/4812.json")
+		else if (level == 2 && mchart.jsonurl == (ig$.datafolder || "./") + "data/geojson/kr/4812.json")
 		{
 			cd1 = row[1].code;
 		}
@@ -735,7 +738,7 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 
 		if (level == 0 && feature.properties.CTPRVN_CD)
 		{
-			me.load_chart("./amplix/data/geojson/kr/G" + feature.properties.CTPRVN_CD + ".json", level + 1, mchart);
+			me.load_chart((ig$.datafolder || "./") + "data/geojson/kr/G" + feature.properties.CTPRVN_CD + ".json", level + 1, mchart);
 		}
 		else if (level == 1)
 		{
@@ -744,24 +747,24 @@ IG$.cVis.koreamap = $s.extend(IG$.cVis.base, {
 
 			if (sig_cd && sig_cd.startsWith("4812"))
 			{
-				me.load_chart("./amplix/data/geojson/kr/4812.json", level + 1, mchart);
+				me.load_chart((ig$.datafolder || "./") + "data/geojson/kr/4812.json", level + 1, mchart);
 			}
 			else if (sig_cd && sig_cd == "48170")
 			{
 				cindex = 2;
-				me.load_chart("./amplix/data/geojson/kr/48170.json", level + 1, mchart);
+				me.load_chart((ig$.datafolder || "./") + "data/geojson/kr/48170.json", level + 1, mchart);
 			}
 		}
 		else if (level == 2)
 		{
 			cindex = 2;
 
-			if (mchart.jsonurl == "./amplix/data/geojson/kr/4812.json")
+			if (mchart.jsonurl == (ig$.datafolder || "./") + "data/geojson/kr/4812.json")
 			{
 				cindex = 1;
 			}
 			var sig_cd = feature.properties.sig_cd;
-			sig_cd && me.load_chart("./amplix/data/geojson/kr/" + sig_cd + ".json", level + 1, mchart);
+			sig_cd && me.load_chart((ig$.datafolder || "./") + "data/geojson/kr/" + sig_cd + ".json", level + 1, mchart);
 		}
 		else if (level == 3)
 		{

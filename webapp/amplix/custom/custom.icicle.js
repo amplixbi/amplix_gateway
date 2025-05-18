@@ -28,7 +28,7 @@ IG$.cVis.icicle = $s.extend(IG$.cVis.base, {
 		if (!IG$.cVis.icicle._loaded)
 		{
 			var js = [
-					"./amplix/custom/custom.icicle.worker.js"
+					(ig$.datafolder || "./") + "custom/custom.icicle.worker.js"
 				];
 
 			IG$.cVis.icicle._loading = 1;

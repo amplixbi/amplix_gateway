@@ -42,8 +42,8 @@ IG$.cVis.googlemap = $s.extend(IG$.cVis.base, {
 				}
 			], new IG$.callBackObj(this, function() {
 				var js = [
-						"./amplix/custom/custom.map.google.worker.js",
-						"./amplix/custom/custom.map.google.clustermarkerplus.js"
+						(ig$.datafolder || "./") + "custom/custom.map.google.worker.js",
+						(ig$.datafolder || "./") + "custom/custom.map.google.clustermarkerplus.js"
 					];
 				
 				IG$.getScriptCache(

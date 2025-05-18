@@ -24,7 +24,7 @@ IG$.cVis.nation = $s.extend(IG$.cVis.base, {
 		if (!IG$.cVis.nation._loaded)
 		{
 			var js = [
-					"./amplix/custom/custom.nation.worker.js"
+					(ig$.datafolder || "./") + "custom/custom.nation.worker.js"
 				];
 			
 			IG$.cVis.nation._loading = 1;

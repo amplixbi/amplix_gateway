@@ -24,8 +24,8 @@ IG$.cVis.hierarchy = $s.extend(IG$.cVis.base, {
 		if (!IG$.cVis.hierarchy._loaded)
 		{
 			var js = [
-					"./amplix/custom/custom.hierarchy.module.js",
-					"./amplix/custom/custom.hierarchy.worker.js"
+					(ig$.datafolder || "./") + "custom/custom.hierarchy.module.js",
+					(ig$.datafolder || "./") + "custom/custom.hierarchy.worker.js"
 				];
 			
 			IG$.cVis.hierarchy._loading = 1;
