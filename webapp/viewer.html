@@ -80,6 +80,10 @@ IG$.__microloader(modules, function() {
 		IG$.showLogin = function() {
 		};
 		
+		IG$.alertmsg = function(title, msg, fn, parent, ismodal, mtype, stack, messagecontent, btn, is_error) {
+			console.log(title, msg, stack);
+		};
+		
 		var viewer_inst = new IG$.amplix_instance({
 			target: "#mainview"
 		});
